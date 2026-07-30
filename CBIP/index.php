@@ -95,7 +95,9 @@
 	
 	<h2>Sam.csv vers XML</h2>	
 	<?php
-	csvToXml('./csv4Emd_Fr_2606A/Sam.csv', './csv4Emd_Fr_2606A/Sam.xml', 'SAM', 'sam');
+	csvToXml('./csv4Emd_Fr_2606A/Sam.csv', './csv4Emd_Fr_2606A/Sam.xml', 'SAM', 'sam');		// Extraction dans le même répertoire
+	csvToXml('./csv4Emd_Fr_2606A/Sam.csv', 'Sam.xml', 'SAM', 'sam');						// Extraction dans le répertoire CBIP
+	
 	echo('<a href="./csv4Emd_Fr_2606A/Sam.xml">Sam.xml</a>');
 	
 	?>
@@ -111,7 +113,7 @@
 	<hr  />
 	<h2>Ir.csv vers XML</h2>
 	<?php
-		csvToXml('./csv4Emd_Fr_2606A/Ir.csv', './csv4Emd_Fr_2606A/Ir.xml', 'IR', 'ir');
+		csvToXml('./csv4Emd_Fr_2606A/Ir.csv', 'Ir.xml', 'IR', 'ir');
 		echo('<a href="./csv4Emd_Fr_2606A/Ir.xml">Ir.xml</a>');
 
 	?>	
@@ -119,7 +121,7 @@
 	<hr  />
 	<h2>MPP.csv vers XML</h2>
 	<?php
-		csvToXml('./csv4Emd_Fr_2606A/MPP.csv', './csv4Emd_Fr_2606A/MPP.xml', 'MPP', 'mpp');
+		csvToXml('./csv4Emd_Fr_2606A/MPP.csv', 'MPP.xml', 'MPP', 'mpp');
 		echo('<a href="./csv4Emd_Fr_2606A/MPP.xml">MPP.xml</a>');
 
 	?>	
@@ -127,7 +129,7 @@
 	<hr  />
 	<h2>Stof.csv vers XML</h2>
 	<?php
-		csvToXml('./csv4Emd_Fr_2606A/Stof.csv', './csv4Emd_Fr_2606A/Stof.xml', 'STOF', 'stof');
+		csvToXml('./csv4Emd_Fr_2606A/Stof.csv', 'Stof.xml', 'STOF', 'stof');
 		echo('<a href="./csv4Emd_Fr_2606A/Stof.xml">Stof.xml</a>');
 
 	?>	
