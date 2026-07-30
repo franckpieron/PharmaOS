@@ -14,6 +14,11 @@
 	<h1>PharmaOS - CBIP</h1>
 	<p>Transforme les fichiers .csv dans leur correspondance .xml</p>
 	<p>Les fichiers .csv sont importés de l'espace téléchargement du site du CBIP (zone développeurs). </p>
+	<p># Relations CBIP<br>
+		<ul><Principe: A partir du nom de marque, obtenir les composants et leurs dosages</ul>
+		<ul>CSV: MP.csv</ul>
+		<ul>MPnm contient le nom de marque</ul>
+		<ul>MPcv contient une référence vers Sam.csv Sam.mpcv qui contient tous les produits correspondant à la marque (ex: Augmentin vers tous les augmentins mais pas Amoclane) donc plusieurs lignes</ul></p>
 	<hr  />
 	
 	<?php
