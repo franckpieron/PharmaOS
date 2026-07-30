@@ -22,7 +22,6 @@
 	<hr  />
 	
 	<?php
-	
 	function csvToXml(string $csvPath, string $xmlPath, string $rootName = 'root', string $itemName = 'item'): bool {
 		// 1. Ouvrir le fichier CSV en lecture
 		if (($handle = fopen($csvPath, "r")) === FALSE) {
@@ -142,7 +141,31 @@
 
 	
 	<p>Création des fichiers .xml OK</p>
+	<hr>
+	
+	<?php
+	$xmlPath = 'MP.xml';
+	
+	$xml = simplexml_load_file($xmlPath);
+	
+	if ($xml === false) {
+		die('Impossible de charger le fichier XML.');
+	}
+	?>
+	
+	<select name="medicament" id="medicament">
+		<option value="">-- Sélectionner un médicament --</option>
+		<?php foreach ($xml->mp as $mp): ?>
+			<option value="<?= htmlspecialchars((string)$mp->MPcv) ?>">
+				<?= htmlspecialchars((string)$mp->MPnm) ?>
+			</option>
+		<?php endforeach; ?>
+	</select>
+	
+	
 	</div>
+
+
 
 	<!-- Optional JavaScript -->
 
