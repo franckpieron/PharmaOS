@@ -1,0 +1,5750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GAL>
+  <gal>
+    <GalCV>00001</GalCV>
+    <NGalNm>inj./inf. oploss. (conc.) i.v. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. à diluer i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00002</GalCV>
+    <NGalNm>inj. oploss./inf. oploss. (conc.) i.thec./epidur./p.neur. [amp., locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj./sol. perf. à diluer i.théc./p.dural/p.neur. [amp., infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00003</GalCV>
+    <NGalNm>filmomh. tabl.</NGalNm>
+    <FGalNm>compr. pellic.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00004</GalCV>
+    <NGalNm>inj. susp. i.m./s.c. [voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. i.m./s.c. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00005</GalCV>
+    <NGalNm>inj. oploss. s.c. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. s.c. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00006</GalCV>
+    <NGalNm>gel</NGalNm>
+    <FGalNm>gel</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00007</GalCV>
+    <NGalNm>gel (pomp)</NGalNm>
+    <FGalNm>gel (pompe)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00008</GalCV>
+    <NGalNm>tabl.</NGalNm>
+    <FGalNm>compr.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00009</GalCV>
+    <NGalNm>inf. oploss. (conc.) i.v. [flac.]</NGalNm>
+    <FGalNm>sol. perf. à diluer i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00010</GalCV>
+    <NGalNm>inj. oploss. i.v./endotrach./i.oss. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. i.v./endotrach./i.oss. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00011</GalCV>
+    <NGalNm>ocul. druppels susp. S.</NGalNm>
+    <FGalNm>collyre susp. S.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00012</GalCV>
+    <NGalNm>tabl. Wekelijks</NGalNm>
+    <FGalNm>compr. Hebdomadaire</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00013</GalCV>
+    <NGalNm>inj./inf. oploss. i.m./i.v./s.c. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.m./i.v./s.c. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00014</GalCV>
+    <NGalNm>harde caps.</NGalNm>
+    <FGalNm>gél.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00015</GalCV>
+    <NGalNm>inj. oploss. i.m./i.v. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.m./i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00016</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.v. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.v. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00017</GalCV>
+    <NGalNm>tabl. (deelb. kwantit.)</NGalNm>
+    <FGalNm>compr. (séc. quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00018</GalCV>
+    <NGalNm>susp. Munt</NGalNm>
+    <FGalNm>susp. Menthe</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00019</GalCV>
+    <NGalNm>inj. oploss. s.c. [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00020</GalCV>
+    <NGalNm>tabl. (deelb. niet kwantit.)</NGalNm>
+    <FGalNm>compr. (séc. non quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00021</GalCV>
+    <NGalNm>gran. (zakjes)</NGalNm>
+    <FGalNm>gran. (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00022</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.v. [2x flac., Baxject III]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.v. [2x flac., Baxject III]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00023</GalCV>
+    <NGalNm>tabl. verl. afgifte Retard</NGalNm>
+    <FGalNm>compr. lib. prol. Retard</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00024</GalCV>
+    <NGalNm>medic. nagellak</NGalNm>
+    <FGalNm>vernis à ongles médic.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00025</GalCV>
+    <NGalNm>druppels oploss.</NGalNm>
+    <FGalNm>gtts sol.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00026</GalCV>
+    <NGalNm>zachte caps.</NGalNm>
+    <FGalNm>caps. molle</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00027</GalCV>
+    <NGalNm>tabl. (deelb. kwantit.) Besilate</NGalNm>
+    <FGalNm>compr. (séc. quantit.) Besilate</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00028</GalCV>
+    <NGalNm>disp. tabl. (deelb. niet kwantit.)</NGalNm>
+    <FGalNm>compr. disp. (séc. non quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00029</GalCV>
+    <NGalNm>susp. (pdr.)</NGalNm>
+    <FGalNm>susp. (pdr)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00030</GalCV>
+    <NGalNm>oploss. (zakjes) Unidose</NGalNm>
+    <FGalNm>sol. (sachet) Unidose</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00031</GalCV>
+    <NGalNm>inf. oploss. (pdr.) i.v. [flac.]</NGalNm>
+    <FGalNm>sol. perf. (pdr) i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00032</GalCV>
+    <NGalNm>susp. (pdr., zakjes)</NGalNm>
+    <FGalNm>susp. (pdr, sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00033</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr. + solv.) i.v. [2x flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr + solv.) i.v. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00034</GalCV>
+    <NGalNm>inj. oploss. i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00035</GalCV>
+    <NGalNm>inj. oploss. i.v. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00036</GalCV>
+    <NGalNm>inj. oploss. i.m. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.m. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00037</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.v. [2x flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.v. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00038</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr.) i.m./i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr) i.m./i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00039</GalCV>
+    <NGalNm>maagsapresist. harde caps.</NGalNm>
+    <FGalNm>gél. gastro-résist.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00040</GalCV>
+    <NGalNm>filmomh. tabl. Mitis</NGalNm>
+    <FGalNm>compr. pellic. Mitis</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00041</GalCV>
+    <NGalNm>filmomh. tabl. (deelb. kwantit.)</NGalNm>
+    <FGalNm>compr. pellic. (séc. quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00042</GalCV>
+    <NGalNm>omh. tabl.</NGalNm>
+    <FGalNm>compr. enr.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00043</GalCV>
+    <NGalNm>inj./inf. oploss. i.v. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00044</GalCV>
+    <NGalNm>inj. oploss. i.v./s.c. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.v./s.c. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00045</GalCV>
+    <NGalNm>crème</NGalNm>
+    <FGalNm>crème</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00046</GalCV>
+    <NGalNm>inj. susp. verl. afgifte i.m. [voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. i.m. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00047</GalCV>
+    <NGalNm>filmomh. tabl. (deelb. niet kwantit.)</NGalNm>
+    <FGalNm>compr. pellic. (séc. non quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00048</GalCV>
+    <NGalNm>susp.</NGalNm>
+    <FGalNm>susp.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00049</GalCV>
+    <NGalNm>auric./cut./nas./ocul. druppels susp. (pdr. + solv.)</NGalNm>
+    <FGalNm>gtts susp. (pdr + solv.) auric./cut./nas./opht.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00050</GalCV>
+    <NGalNm>zalf</NGalNm>
+    <FGalNm>pommade</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00051</GalCV>
+    <NGalNm>inj./inf. oploss. i.thec. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.théc. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00052</GalCV>
+    <NGalNm>susp. (conc.) Scanner</NGalNm>
+    <FGalNm>susp. à diluer Scanner</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00053</GalCV>
+    <NGalNm>orofar. spray oploss.</NGalNm>
+    <FGalNm>sol. spray orophar.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00054</GalCV>
+    <NGalNm>tabl. verl. afgifte</NGalNm>
+    <FGalNm>compr. lib. prol.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00055</GalCV>
+    <NGalNm>maagsapresist. tabl.</NGalNm>
+    <FGalNm>compr. gastro-résist.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00056</GalCV>
+    <NGalNm>filmomh. tabl. (deelb. in 4 kwantit.)</NGalNm>
+    <FGalNm>compr. pellic. (séc. en 4 quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00057</GalCV>
+    <NGalNm>cut. oploss.</NGalNm>
+    <FGalNm>sol. cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00058</GalCV>
+    <NGalNm>zetpil</NGalNm>
+    <FGalNm>supp.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00059</GalCV>
+    <NGalNm>vernevelsusp. (unidose)</NGalNm>
+    <FGalNm>susp. inhal. nébul. (unidose)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00060</GalCV>
+    <NGalNm>ocul. druppels oploss.</NGalNm>
+    <FGalNm>collyre sol.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00061</GalCV>
+    <NGalNm>inj. oploss. (pdr.) i.m./i.derm. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) i.m./i.derm. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00062</GalCV>
+    <NGalNm>inj. oploss. (pdr.) i.m. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) i.m. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00063</GalCV>
+    <NGalNm>bruisgran. (zakjes) Orange</NGalNm>
+    <FGalNm>gran. efferv. (sachet) Orange</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00064</GalCV>
+    <NGalNm>inj. oploss. s.c. FlexTouch [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. FlexTouch [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00065</GalCV>
+    <NGalNm>siroop oploss. (zonder suiker) Volw.</NGalNm>
+    <FGalNm>sirop sol. (sans sucre) Adulte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00066</GalCV>
+    <NGalNm>inhalatiepdr. (patr.) [Novolizer]</NGalNm>
+    <FGalNm>poudre inhal. (cart.) [Novolizer]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00067</GalCV>
+    <NGalNm>subling. tabl.</NGalNm>
+    <FGalNm>compr. subling.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00068</GalCV>
+    <NGalNm>ocul. gel</NGalNm>
+    <FGalNm>gel opht.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00069</GalCV>
+    <NGalNm>inj./inf. oploss. i.v. Onco-Tain [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v. Onco-Tain [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00070</GalCV>
+    <NGalNm>inf. oploss. i.v. [flac.]</NGalNm>
+    <FGalNm>sol. perf. i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00071</GalCV>
+    <NGalNm>siroop oploss. (zonder suiker) Zonder Suiker</NGalNm>
+    <FGalNm>sirop sol. (sans sucre) Sans Sucre</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00072</GalCV>
+    <NGalNm>inj. susp. i.m. [voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. i.m. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00073</GalCV>
+    <NGalNm>subling. lyofilisaat</NGalNm>
+    <FGalNm>lyophilisat subling.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00074</GalCV>
+    <NGalNm>inf. oploss. (pdr. + solv.) i.v. [2x flac., thermostabiele formule]</NGalNm>
+    <FGalNm>sol. perf. (pdr + solv.) i.v. [2x flac., formule thermostable]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00075</GalCV>
+    <NGalNm>inj./inf. oploss. s.c. PumpCart [patr.]</NGalNm>
+    <FGalNm>sol. inj./perf. s.c. PumpCart [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00076</GalCV>
+    <NGalNm>inf. oploss. conc. (pdr.) i.v. [flac.]</NGalNm>
+    <FGalNm>sol. perf. à diluer (pdr) i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00077</GalCV>
+    <NGalNm>inf. oploss. (conc.) i.v. [amp.]</NGalNm>
+    <FGalNm>sol. perf. à diluer i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00078</GalCV>
+    <NGalNm>inf. oploss. (conc.) i.v. [amp., Mini-Plasco]</NGalNm>
+    <FGalNm>sol. perf. à diluer i.v. [amp., Mini-Plasco]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00079</GalCV>
+    <NGalNm>inj. oploss. (pdr.) i.m./i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) i.m./i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00080</GalCV>
+    <NGalNm>inj. susp. verl. afgifte s.c. [voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. s.c. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00081</GalCV>
+    <NGalNm>i.uter. systeem</NGalNm>
+    <FGalNm>dispositif i.utér.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00082</GalCV>
+    <NGalNm>inj./instill. oploss. i.v./i.arter./i.card./i.duct. [flac.]</NGalNm>
+    <FGalNm>sol. inj./instill. i.v./i.artér./i.canal./i.card. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00083</GalCV>
+    <NGalNm>inj./instill. oploss. i.v./i.arter./i.card./i.duct./i.uter. [flac.]</NGalNm>
+    <FGalNm>sol. inj./instill. i.v./i.artér./i.canal./i.card./i.utér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00084</GalCV>
+    <NGalNm>inj./instill. oploss. i.v./i.thec./i.arter./i.duct. [flac.]</NGalNm>
+    <FGalNm>sol. inj./instill. i.v./i.théc./i.artér./i.canal. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00085</GalCV>
+    <NGalNm>inj./inf./instill. oploss. i.v./i.arter./i.uter. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf./instill. i.v./i.artér./i.utér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00086</GalCV>
+    <NGalNm>inj. oploss. s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj. s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00087</GalCV>
+    <NGalNm>inj./instill. oploss. i.v./i.artic./i.thec./i.arter./i.uter./or./rect. [flac.]</NGalNm>
+    <FGalNm>sol. inj./instill. i.v./i.artic./i.théc./i.artér./i.utér./or./rect. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00088</GalCV>
+    <NGalNm>inj. oploss. i.v./i.arter./i.card. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.v./i.artér./i.card. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00089</GalCV>
+    <NGalNm>inf. oploss. epidur. [zak]</NGalNm>
+    <FGalNm>sol. perf. p.dural [sac]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00090</GalCV>
+    <NGalNm>nas. spray oploss.</NGalNm>
+    <FGalNm>sol. spray nas.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00091</GalCV>
+    <NGalNm>oploss. (unidose)</NGalNm>
+    <FGalNm>sol. (unidose)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00092</GalCV>
+    <NGalNm>40 + 10 mg / 1 ml inj. susp. verl. afgifte i.artic./i.laes./i.burs./p.artic. [flac.]</NGalNm>
+    <FGalNm>40 + 10 mg / 1 ml susp. inj. lib. prol. i.artic./i.lés./i.burs./p.artic. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00093</GalCV>
+    <NGalNm>inj. oploss. (pdr.) i.camer. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) i.camér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00094</GalCV>
+    <NGalNm>vag. gel</NGalNm>
+    <FGalNm>gel vag.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00095</GalCV>
+    <NGalNm>inj./inf./instill. oploss. i.v./i.arter./i.card. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf./instill. i.v./i.artér./i.card. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00096</GalCV>
+    <NGalNm>inj. susp. i.m. [flac.]</NGalNm>
+    <FGalNm>susp. inj. i.m. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00097</GalCV>
+    <NGalNm>subling. glob.</NGalNm>
+    <FGalNm>glob. subling.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00098</GalCV>
+    <NGalNm>subling. glob. Junior</NGalNm>
+    <FGalNm>glob. subling. Junior</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00099</GalCV>
+    <NGalNm>inj./instill. oploss. i.v./i.artic./i.arter./i.card./i.uter. [flac.]</NGalNm>
+    <FGalNm>sol. inj./instill. i.v./i.artic./i.artér./i.card./i.utér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00100</GalCV>
+    <NGalNm>inj./inf. oploss. i.v./s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00101</GalCV>
+    <NGalNm>inj./inf. oploss. i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00102</GalCV>
+    <NGalNm>inj. oploss. i.m./s.c. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.m./s.c. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00103</GalCV>
+    <NGalNm>inj. oploss. i.v./i.arter./i.card. [zak]</NGalNm>
+    <FGalNm>sol. inj. i.v./i.artér./i.card. [sac]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00104</GalCV>
+    <NGalNm>bucc./or. druppels oploss.</NGalNm>
+    <FGalNm>gtts sol. bucc./or.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00105</GalCV>
+    <NGalNm>inj. oploss. i.v. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. i.v. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00106</GalCV>
+    <NGalNm>nas. spray susp.</NGalNm>
+    <FGalNm>susp. spray nas.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00107</GalCV>
+    <NGalNm>inj./inf. oploss. i.v./epidur. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v./p.dural [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00108</GalCV>
+    <NGalNm>inhalatieoploss. (patr.) Respimat</NGalNm>
+    <FGalNm>sol. inhal. (cart.) Respimat</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00109</GalCV>
+    <NGalNm>zachte kauwcaps. Kinderen</NGalNm>
+    <FGalNm>caps. molle à mâcher Enfants</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00110</GalCV>
+    <NGalNm>oromuc. spray oploss. Fruit &amp; Mint</NGalNm>
+    <FGalNm>sol. spray oromuq. Fruit &amp; Mint</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00111</GalCV>
+    <NGalNm>orofar. zuigtabl.</NGalNm>
+    <FGalNm>compr. à sucer orophar.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00112</GalCV>
+    <NGalNm>cut. oploss. (unidose)</NGalNm>
+    <FGalNm>sol. (unidose) cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00113</GalCV>
+    <NGalNm>transderm. gel (doseerpomp)</NGalNm>
+    <FGalNm>gel transderm. (pompe doseuse)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00114</GalCV>
+    <NGalNm>transderm. lok. medic. pleister</NGalNm>
+    <FGalNm>emplâtre médic. transderm. local</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00115</GalCV>
+    <NGalNm>oromuc. spoeling</NGalNm>
+    <FGalNm>bain de bouche oromuq.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00116</GalCV>
+    <NGalNm>inj. oploss. i.m. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. i.m. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00117</GalCV>
+    <NGalNm>orofar. spray oploss. Menthol</NGalNm>
+    <FGalNm>sol. spray orophar. Menthol</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00118</GalCV>
+    <NGalNm>cut. oploss. (alc.) Alcoholicus</NGalNm>
+    <FGalNm>sol. cut. (alc.) Alcoholicus</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00119</GalCV>
+    <NGalNm>orofar. spray oploss. Lemon</NGalNm>
+    <FGalNm>sol. spray orophar. Lemon</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00120</GalCV>
+    <NGalNm>orofar. zuigtabl. Menthol</NGalNm>
+    <FGalNm>compr. à sucer orophar. Menthol</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00121</GalCV>
+    <NGalNm>dent./gingiv./oromuc. gel</NGalNm>
+    <FGalNm>gel dent./gingiv./oromuq.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00122</GalCV>
+    <NGalNm>orofar. zuigtabl. Lemon</NGalNm>
+    <FGalNm>compr. à sucer orophar. Lemon</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00123</GalCV>
+    <NGalNm>oploss.</NGalNm>
+    <FGalNm>sol.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00124</GalCV>
+    <NGalNm>zeep</NGalNm>
+    <FGalNm>savon</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00125</GalCV>
+    <NGalNm>cut. oploss. (conc.)</NGalNm>
+    <FGalNm>sol. à diluer cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00126</GalCV>
+    <NGalNm>auric./ocul. druppels oploss.</NGalNm>
+    <FGalNm>gtts sol. auric./opht.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00127</GalCV>
+    <NGalNm>vag. crème</NGalNm>
+    <FGalNm>crème vag.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00128</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr.] voor SurePal Pen 5</NGalNm>
+    <FGalNm>sol. inj. s.c. [cart.] pour SurePal Pen 5</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00129</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr.] voor SurePal Pen 10</NGalNm>
+    <FGalNm>sol. inj. s.c. [cart.] pour SurePal Pen 10</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00130</GalCV>
+    <NGalNm>oploss. (gran.)</NGalNm>
+    <FGalNm>sol. (gran.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00131</GalCV>
+    <NGalNm>inj./inf. oploss. i.m./i.v. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.m./i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00132</GalCV>
+    <NGalNm>susp. (gran.)</NGalNm>
+    <FGalNm>susp. (gran.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00133</GalCV>
+    <NGalNm>susp. (gran.) Kids</NGalNm>
+    <FGalNm>susp. (gran.) Kids</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00134</GalCV>
+    <NGalNm>filmomh. tabl. Forte</NGalNm>
+    <FGalNm>compr. pellic. Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00135</GalCV>
+    <NGalNm>siroop oploss.</NGalNm>
+    <FGalNm>sirop sol.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00136</GalCV>
+    <NGalNm>ocul. druppels oploss. [zonder bew.]</NGalNm>
+    <FGalNm>collyre sol. [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00137</GalCV>
+    <NGalNm>ocul. zalf</NGalNm>
+    <FGalNm>pommade opht.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00138</GalCV>
+    <NGalNm>tabl. (deelb. in 4 kwantit.)</NGalNm>
+    <FGalNm>compr. (séc. en 4 quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00139</GalCV>
+    <NGalNm>shampoo</NGalNm>
+    <FGalNm>shampooing</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00140</GalCV>
+    <NGalNm>inj./inf. oploss. i.v./s.c./i.thec. Cytosafe [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v./s.c./i.théc. Cytosafe [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00141</GalCV>
+    <NGalNm>inj./inf. oploss. (conc.) i.v. Cytosafe [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. à diluer i.v. Cytosafe [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00142</GalCV>
+    <NGalNm>inj. oploss. i.v./s.c. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. i.v./s.c. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00143</GalCV>
+    <NGalNm>inj./inf. oploss. i.v./s.c. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v./s.c. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00144</GalCV>
+    <NGalNm>ocul. druppels oploss. (unidose) [zonder bew.]</NGalNm>
+    <FGalNm>collyre sol. (unidose) [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00145</GalCV>
+    <NGalNm>dent. gel</NGalNm>
+    <FGalNm>gel dent.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00146</GalCV>
+    <NGalNm>inj. oploss. i.m./i.v./s.c. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.m./i.v./s.c. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00147</GalCV>
+    <NGalNm>ocul. druppels susp.</NGalNm>
+    <FGalNm>collyre susp.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00148</GalCV>
+    <NGalNm>harde caps. geregul. afgifte Forte</NGalNm>
+    <FGalNm>gél. lib. modif. Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00149</GalCV>
+    <NGalNm>inf. oploss. i.v. [amp.]</NGalNm>
+    <FGalNm>sol. perf. i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00150</GalCV>
+    <NGalNm>cut. schuim</NGalNm>
+    <FGalNm>mousse cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00151</GalCV>
+    <NGalNm>orodisp. tabl. Instant</NGalNm>
+    <FGalNm>compr. orodisp. Instant</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00152</GalCV>
+    <NGalNm>verneveloploss. [amp.]</NGalNm>
+    <FGalNm>sol. inhal. nébul. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00153</GalCV>
+    <NGalNm>ocul. druppels oploss. Ocumeter Plus</NGalNm>
+    <FGalNm>collyre sol. Ocumeter Plus</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00154</GalCV>
+    <NGalNm>cut. emuls.</NGalNm>
+    <FGalNm>émuls. cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00155</GalCV>
+    <NGalNm>inf./instill. oploss. (conc.) i.v./i.vesic. [flac.]</NGalNm>
+    <FGalNm>sol. perf./instill. à diluer i.v./i.vésic. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00156</GalCV>
+    <NGalNm>harde caps. geregul. afgifte Uno</NGalNm>
+    <FGalNm>gél. lib. modif. Uno</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00157</GalCV>
+    <NGalNm>orodisp. tabl.</NGalNm>
+    <FGalNm>compr. orodisp.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00158</GalCV>
+    <NGalNm>oploss. (conc.)</NGalNm>
+    <FGalNm>sol. à diluer</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00159</GalCV>
+    <NGalNm>inj. oploss./inj. oploss. (conc.) i.m./i.v./endotrach. [amp.]</NGalNm>
+    <FGalNm>sol. inj./sol. inj. à diluer i.m./i.v./endotrach. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00160</GalCV>
+    <NGalNm>transderm. pleister TTS</NGalNm>
+    <FGalNm>dispositif transderm. TTS</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00161</GalCV>
+    <NGalNm>vag. tabl.</NGalNm>
+    <FGalNm>compr. vag.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00162</GalCV>
+    <NGalNm>ovule</NGalNm>
+    <FGalNm>ovule</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00163</GalCV>
+    <NGalNm>inf. oploss. (pdr. + solv.) i.v. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>sol. perf. (pdr + solv.) i.v. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00164</GalCV>
+    <NGalNm>harde caps. verl. afgifte</NGalNm>
+    <FGalNm>gél. lib. prol.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00165</GalCV>
+    <NGalNm>transderm. gel</NGalNm>
+    <FGalNm>gel transderm.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00166</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr.) i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr) i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00167</GalCV>
+    <NGalNm>transderm. pleister</NGalNm>
+    <FGalNm>dispositif transderm.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00168</GalCV>
+    <NGalNm>transderm. pleister Matrix</NGalNm>
+    <FGalNm>dispositif transderm. Matrix</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00169</GalCV>
+    <NGalNm>tabl. (deelb. niet kwantit.) Tabs</NGalNm>
+    <FGalNm>compr. (séc. non quantit.) Tabs</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00170</GalCV>
+    <NGalNm>harde caps. Lidose</NGalNm>
+    <FGalNm>gél. Lidose</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00171</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr.] voor Puregon Pen</NGalNm>
+    <FGalNm>sol. inj. s.c. [cart.] pour Puregon Pen</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00172</GalCV>
+    <NGalNm>inf. oploss. (conc.)/inf. oploss. i.v. [flac.]</NGalNm>
+    <FGalNm>sol. perf. à diluer/sol. perf. i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00173</GalCV>
+    <NGalNm>inj. susp. i.m./s.c. Junior [voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. i.m./s.c. Junior [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00174</GalCV>
+    <NGalNm>s.c. implantaat [implantaatinjector]</NGalNm>
+    <FGalNm>implant s.c. [pistolet pour implant]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00175</GalCV>
+    <NGalNm>oploss. (gran., zakjes)</NGalNm>
+    <FGalNm>sol. (gran., sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00176</GalCV>
+    <NGalNm>zetpil Kinderen</NGalNm>
+    <FGalNm>supp. Enfants</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00177</GalCV>
+    <NGalNm>inj. susp. i.m./s.c. Adult [voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. i.m./s.c. Adulte [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00178</GalCV>
+    <NGalNm>filmomh. tabl. Fasttabs</NGalNm>
+    <FGalNm>compr. pellic. Fasttabs</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00179</GalCV>
+    <NGalNm>omh. tabl. (deelb. niet kwantit.)</NGalNm>
+    <FGalNm>compr. enr. (séc. non quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00180</GalCV>
+    <NGalNm>inj. oploss. (pdr.) i.v./s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) i.v./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00181</GalCV>
+    <NGalNm>zachte caps. Fastcaps</NGalNm>
+    <FGalNm>caps. molle Fastcaps</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00182</GalCV>
+    <NGalNm>transderm. lok. gel</NGalNm>
+    <FGalNm>gel transderm. local</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00183</GalCV>
+    <NGalNm>inj. susp. s.c. Penfill [patr.]</NGalNm>
+    <FGalNm>susp. inj. s.c. Penfill [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00184</GalCV>
+    <NGalNm>inj. susp. s.c. FlexPen [voorgev. pen]</NGalNm>
+    <FGalNm>susp. inj. s.c. FlexPen [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00185</GalCV>
+    <NGalNm>inj. oploss. s.c. FlexPen [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. FlexPen [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00186</GalCV>
+    <NGalNm>inj. oploss. s.c. Penfill [patr.]</NGalNm>
+    <FGalNm>sol. inj. s.c. Penfill [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00187</GalCV>
+    <NGalNm>inj. oploss. s.c. Solostar [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. Solostar [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00188</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr.]</NGalNm>
+    <FGalNm>sol. inj. s.c. [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00189</GalCV>
+    <NGalNm>inj. oploss. i.v./s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.v./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00190</GalCV>
+    <NGalNm>inj. oploss. s.c. Cartridge [patr.]</NGalNm>
+    <FGalNm>sol. inj. s.c. Cartridge [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00191</GalCV>
+    <NGalNm>inj. oploss. s.c. Kwikpen [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. Kwikpen [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00192</GalCV>
+    <NGalNm>inj. susp. s.c. Kwikpen [voorgev. pen]</NGalNm>
+    <FGalNm>susp. inj. s.c. Kwikpen [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00193</GalCV>
+    <NGalNm>gran.</NGalNm>
+    <FGalNm>gran.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00194</GalCV>
+    <NGalNm>inj./instill. oploss. i.v./i.arter./i.card./i.cavern./i.duct./i.uter./urethr. [flac.]</NGalNm>
+    <FGalNm>sol. inj./instill. i.v./i.artér./i.canal./i.card./i.cavern./i.utér./urétr. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00195</GalCV>
+    <NGalNm>or./rect. oploss. Gastro</NGalNm>
+    <FGalNm>sol. or./rect. Gastro</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00196</GalCV>
+    <NGalNm>oploss. (pdr., zakjes) Junior Neutral</NGalNm>
+    <FGalNm>sol. (pdr, sachet) Junior Neutral</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00197</GalCV>
+    <NGalNm>oploss. (pdr., zakjes) Junior Aroma</NGalNm>
+    <FGalNm>sol. (pdr, sachet) Junior Arome</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00198</GalCV>
+    <NGalNm>oploss. (pdr., zakjes) Natuur</NGalNm>
+    <FGalNm>sol. (pdr, sachet) Nature</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00199</GalCV>
+    <NGalNm>oploss. (pdr., zakjes) Sinaasappel</NGalNm>
+    <FGalNm>sol. (pdr, sachet) Orange</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00200</GalCV>
+    <NGalNm>oploss. (pdr., zakjes) Neutral</NGalNm>
+    <FGalNm>sol. (pdr, sachet) Neutral</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00201</GalCV>
+    <NGalNm>oploss. (pdr., zakjes)</NGalNm>
+    <FGalNm>sol. (pdr, sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00202</GalCV>
+    <NGalNm>cut. spray oploss.</NGalNm>
+    <FGalNm>sol. spray cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00203</GalCV>
+    <NGalNm>kauw-/disp. tabl.</NGalNm>
+    <FGalNm>compr. à croquer/disp.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00204</GalCV>
+    <NGalNm>siroop oploss. (zonder suiker)</NGalNm>
+    <FGalNm>sirop sol. (sans sucre)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00205</GalCV>
+    <NGalNm>inj. oploss. i.v./i.arter. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.v./i.artér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00206</GalCV>
+    <NGalNm>disp. tabl.</NGalNm>
+    <FGalNm>compr. disp.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00207</GalCV>
+    <NGalNm>ocul. zalf [zonder bew.]</NGalNm>
+    <FGalNm>pommade opht. [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00208</GalCV>
+    <NGalNm>inj. oploss. s.c. Autogel [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. s.c. Autogel [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00209</GalCV>
+    <NGalNm>kauwtabl.</NGalNm>
+    <FGalNm>compr. à croquer</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00210</GalCV>
+    <NGalNm>cut. oploss. (alc.) Hydroalcoholische</NGalNm>
+    <FGalNm>sol. cut. (alc.) Hydroalcoolique</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00211</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr. + solv.) i.v./s.c. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr + solv.) i.v./s.c. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00212</GalCV>
+    <NGalNm>dosisaerosol susp. [inhalator]</NGalNm>
+    <FGalNm>susp. inhal. (flacon press.) [inhalateur]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00213</GalCV>
+    <NGalNm>laryngofar./oromuc. spray oploss.</NGalNm>
+    <FGalNm>sol. spray laryngophar./oromuq.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00214</GalCV>
+    <NGalNm>inj. susp. verl. afgifte i.artic./i.laes./i.burs./p.artic. [flac.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. i.artic./i.lés./i.burs./p.artic. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00215</GalCV>
+    <NGalNm>urethr. gel (unidose)</NGalNm>
+    <FGalNm>gel (unidose) urétr.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00216</GalCV>
+    <NGalNm>inj. oploss. i.v./s.c./epidur. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.v./s.c./p.dural [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00217</GalCV>
+    <NGalNm>auric. druppels oploss.</NGalNm>
+    <FGalNm>gtts sol. auric.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00218</GalCV>
+    <NGalNm>cut. medic. pleister Patch</NGalNm>
+    <FGalNm>emplâtre médic. cut. Patch</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00219</GalCV>
+    <NGalNm>cut./rect. zalf</NGalNm>
+    <FGalNm>pommade cut./rect.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00220</GalCV>
+    <NGalNm>cut. medic. pleister</NGalNm>
+    <FGalNm>emplâtre médic. cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00221</GalCV>
+    <NGalNm>inf. oploss. i.v. [zak]</NGalNm>
+    <FGalNm>sol. perf. i.v. [sac]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00222</GalCV>
+    <NGalNm>i.uter. afleveringssysteem</NGalNm>
+    <FGalNm>système de diffusion i.utér.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00223</GalCV>
+    <NGalNm>susp. (zakjes)</NGalNm>
+    <FGalNm>susp. (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00224</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) s.c. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) s.c. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00225</GalCV>
+    <NGalNm>inf. oploss. conc. (pdr. + solv.) i.v./i.arter. [2x flac.]</NGalNm>
+    <FGalNm>sol. perf. à diluer (pdr + solv.) i.v./i.artér. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00226</GalCV>
+    <NGalNm>rect. schuim Foam</NGalNm>
+    <FGalNm>mousse rect. Foam</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00227</GalCV>
+    <NGalNm>rect. susp.</NGalNm>
+    <FGalNm>susp. rect.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00228</GalCV>
+    <NGalNm>inj. oploss. epidur./p.neur. [flac., locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj. p.dural/p.neur. [flac., infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00229</GalCV>
+    <NGalNm>oploss. (pdr., zakjes) Junior</NGalNm>
+    <FGalNm>sol. (pdr, sachet) Junior</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00230</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr. + solv.) i.m./i.v. [2x flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr + solv.) i.m./i.v. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00231</GalCV>
+    <NGalNm>inj./inf. oploss. i.m./i.v./i.thec./i.arter./i.ventr. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.m./i.v./i.théc./i.artér./i.ventr. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00232</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr. + solv.) i.m./i.v. S.A.B. [flac., Act-O-Vial]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr + solv.) i.m./i.v. S.A.B. [flac., Act-O-Vial]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00233</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr. + solv.) i.m./i.v. S.A.B. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr + solv.) i.m./i.v. S.A.B. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00234</GalCV>
+    <NGalNm>cut. pasta</NGalNm>
+    <FGalNm>pâte cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00235</GalCV>
+    <NGalNm>cut. poeder</NGalNm>
+    <FGalNm>poudre cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00236</GalCV>
+    <NGalNm>cut. spray pdr.</NGalNm>
+    <FGalNm>poudre spray cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00237</GalCV>
+    <NGalNm>tabl. (deelb. in 4 niet kwantit.)</NGalNm>
+    <FGalNm>compr. (séc. en 4 non quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00238</GalCV>
+    <NGalNm>inj. oploss./inf. oploss. (conc.) i.m./i.v./i.thec./i.arter./i.ventr. [flac.]</NGalNm>
+    <FGalNm>sol. inj./sol. perf. à diluer i.m./i.v./i.théc./i.artér./i.ventr. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00239</GalCV>
+    <NGalNm>oromuc. gel</NGalNm>
+    <FGalNm>gel oromuq.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00240</GalCV>
+    <NGalNm>inj./instill. susp. verl. afgifte i.m./i.artic./i.laes./i.burs./p.artic./rect. [flac.]</NGalNm>
+    <FGalNm>susp. inj./instill. lib. prol. i.m./i.artic./i.lés./i.burs./p.artic./rect. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00241</GalCV>
+    <NGalNm>tabl. verl. afgifte (deelb. kwantit.) Retard</NGalNm>
+    <FGalNm>compr. lib. prol. (séc. quantit.) Retard</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00242</GalCV>
+    <NGalNm>inj./inf./instill. oploss. i.m./i.v./rect. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf./instill. i.m./i.v./rect. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00243</GalCV>
+    <NGalNm>orodisp. tabl. SolTab</NGalNm>
+    <FGalNm>compr. orodisp. SolTab</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00244</GalCV>
+    <NGalNm>nas. zalf</NGalNm>
+    <FGalNm>pommade nas.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00245</GalCV>
+    <NGalNm>inj. oploss. i.m. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.m. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00246</GalCV>
+    <NGalNm>medic. kauwgom Freshmint</NGalNm>
+    <FGalNm>gomme à mâcher médic. Freshmint</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00247</GalCV>
+    <NGalNm>medic. kauwgom</NGalNm>
+    <FGalNm>gomme à mâcher médic.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00248</GalCV>
+    <NGalNm>medic. kauwgom Fruit</NGalNm>
+    <FGalNm>gomme à mâcher médic. Fruit</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00249</GalCV>
+    <NGalNm>zalf Soluble Dressing</NGalNm>
+    <FGalNm>pommade Soluble Dressing</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00250</GalCV>
+    <NGalNm>inj. oploss. i.m./i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.m./i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00251</GalCV>
+    <NGalNm>inf. oploss. conc. (pdr. + solv.) i.v. [2x flac.]</NGalNm>
+    <FGalNm>sol. perf. à diluer (pdr + solv.) i.v. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00252</GalCV>
+    <NGalNm>oromuc. zuigtabl. Freshmint</NGalNm>
+    <FGalNm>compr. à sucer oromuq. Freshmint</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00253</GalCV>
+    <NGalNm>tabl. Forte</NGalNm>
+    <FGalNm>compr. Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00254</GalCV>
+    <NGalNm>medic. kauwgom Cool Mint</NGalNm>
+    <FGalNm>gomme à mâcher médic. Cool Mint</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00255</GalCV>
+    <NGalNm>orodisp. tabl. Velotab</NGalNm>
+    <FGalNm>compr. orodisp. Velotab</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00256</GalCV>
+    <NGalNm>inj. oploss. verl. afgifte s.c. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. lib. prol. s.c. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00257</GalCV>
+    <NGalNm>inj. oploss./inf. oploss. (conc.) i.m./i.v. [amp.]</NGalNm>
+    <FGalNm>sol. inj./sol. perf. à diluer i.m./i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00258</GalCV>
+    <NGalNm>inj. oploss./inf. oploss. (conc.) i.v. [amp.]</NGalNm>
+    <FGalNm>sol. inj./sol. perf. à diluer i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00259</GalCV>
+    <NGalNm>verband</NGalNm>
+    <FGalNm>pansement</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00260</GalCV>
+    <NGalNm>zetpil Volw.</NGalNm>
+    <FGalNm>supp. Adulte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00261</GalCV>
+    <NGalNm>bruistabl.</NGalNm>
+    <FGalNm>compr. efferv.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00262</GalCV>
+    <NGalNm>zetpil Pediatrie</NGalNm>
+    <FGalNm>supp. Pédiatrique</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00263</GalCV>
+    <NGalNm>bruistabl. (deelb. kwantit.)</NGalNm>
+    <FGalNm>compr. efferv. (séc. quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00264</GalCV>
+    <NGalNm>filmomh. tabl. (deelb. niet kwantit.) Forte</NGalNm>
+    <FGalNm>compr. pellic. (séc. non quantit.) Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00265</GalCV>
+    <NGalNm>zetpil Baby’s</NGalNm>
+    <FGalNm>supp. Bébés</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00266</GalCV>
+    <NGalNm>zetpil Kleuters</NGalNm>
+    <FGalNm>supp. Jeunes Enfants</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00267</GalCV>
+    <NGalNm>orodisp. tabl. Odis</NGalNm>
+    <FGalNm>compr. orodisp. Odis</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00268</GalCV>
+    <NGalNm>or. gel</NGalNm>
+    <FGalNm>gel or.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00269</GalCV>
+    <NGalNm>inj. oploss. s.c. [amp.]</NGalNm>
+    <FGalNm>sol. inj. s.c. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00270</GalCV>
+    <NGalNm>zetpil Volwassenen</NGalNm>
+    <FGalNm>supp. Adultes</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00271</GalCV>
+    <NGalNm>inj./inf./verneveloploss. (pdr.) i.m./i.v./inhal. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf./inhal. nébul. (pdr) i.m./i.v./inhal. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00272</GalCV>
+    <NGalNm>inj. oploss. i.v./s.mucos. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.v./s.muq. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00273</GalCV>
+    <NGalNm>zachte caps. or.</NGalNm>
+    <FGalNm>caps. molle or.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00274</GalCV>
+    <NGalNm>vag. zachte caps.</NGalNm>
+    <FGalNm>caps. molle vag.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00275</GalCV>
+    <NGalNm>inj./inf. emuls. i.v. [flac.]</NGalNm>
+    <FGalNm>émuls. inj./perf. i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00276</GalCV>
+    <NGalNm>inj./inf. emuls. i.v. [voorgev. spuit]</NGalNm>
+    <FGalNm>émuls. inj./perf. i.v. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00277</GalCV>
+    <NGalNm>inj./inf. emuls. i.v. [amp.]</NGalNm>
+    <FGalNm>émuls. inj./perf. i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00278</GalCV>
+    <NGalNm>inf. oploss. conc. (pdr. + solv.) i.v. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. perf. à diluer (pdr + solv.) i.v. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00279</GalCV>
+    <NGalNm>inj./inf. oploss. conc. (pdr.) i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. à diluer (pdr) i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00280</GalCV>
+    <NGalNm>inf. oploss. (pdr. + solv.) i.v. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. perf. (pdr + solv.) i.v. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00281</GalCV>
+    <NGalNm>filmomh. tabl. Wekelijks</NGalNm>
+    <FGalNm>compr. pellic. Hebdomadaire</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00282</GalCV>
+    <NGalNm>gingiv./oromuc. oploss.</NGalNm>
+    <FGalNm>sol. gingiv./oromuq.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00283</GalCV>
+    <NGalNm>lyofilisaat Lyo</NGalNm>
+    <FGalNm>lyophilisat Lyo</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00284</GalCV>
+    <NGalNm>harde caps. geregul. afgifte</NGalNm>
+    <FGalNm>gél. lib. modif.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00285</GalCV>
+    <NGalNm>dosisaerosol oploss. [inhalator]</NGalNm>
+    <FGalNm>sol. inhal. (flacon press.) [inhalateur]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00286</GalCV>
+    <NGalNm>dosisaerosol susp. Evohaler</NGalNm>
+    <FGalNm>susp. inhal. (flacon press.) Evohaler</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00287</GalCV>
+    <NGalNm>inhalatiepdr. (harde caps.) [Aerolizer]</NGalNm>
+    <FGalNm>poudre inhal. (gél.) [Aerolizer]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00288</GalCV>
+    <NGalNm>inhalatiepdr. (harde caps.) [inhalator]</NGalNm>
+    <FGalNm>poudre inhal. (gél.) [inhalateur]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00289</GalCV>
+    <NGalNm>inf. oploss. (pdr. + solv.) i.v. [2x flac.]</NGalNm>
+    <FGalNm>sol. perf. (pdr + solv.) i.v. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00290</GalCV>
+    <NGalNm>disp. tabl. Instant</NGalNm>
+    <FGalNm>compr. disp. Instant</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00291</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr.] voor Genotonorm Pen 12</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) s.c. [cart.] pour Genotonorm Pen 12</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00292</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr.] voor Genotonorm Pen 5,3</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) s.c. [cart.] pour Genotonorm Pen 5,3</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00293</GalCV>
+    <NGalNm>bruistabl. (deelb. niet kwantit.)</NGalNm>
+    <FGalNm>compr. efferv. (séc. non quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00294</GalCV>
+    <NGalNm>verband Lite</NGalNm>
+    <FGalNm>pansement Lite</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00295</GalCV>
+    <NGalNm>maagsapresist. tabl. E.C.</NGalNm>
+    <FGalNm>compr. gastro-résist. E.C.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00296</GalCV>
+    <NGalNm>verband Border Sacrum</NGalNm>
+    <FGalNm>pansement Border Sacrum</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00297</GalCV>
+    <NGalNm>verband Multishape</NGalNm>
+    <FGalNm>pansement Multishape</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00298</GalCV>
+    <NGalNm>instill. susp. endotrach.</NGalNm>
+    <FGalNm>susp. instill. endotrach.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00299</GalCV>
+    <NGalNm>tabl. D</NGalNm>
+    <FGalNm>compr. D</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00300</GalCV>
+    <NGalNm>inf. oploss. (pdr.) i.arter. [flac.]</NGalNm>
+    <FGalNm>sol. perf. (pdr) i.artér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00301</GalCV>
+    <NGalNm>verband Talon</NGalNm>
+    <FGalNm>pansement Talon</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00302</GalCV>
+    <NGalNm>verband Border Heel</NGalNm>
+    <FGalNm>pansement Border Heel</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00303</GalCV>
+    <NGalNm>bruisgran. (zakjes)</NGalNm>
+    <FGalNm>gran. efferv. (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00304</GalCV>
+    <NGalNm>verband Border</NGalNm>
+    <FGalNm>pansement Border</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00305</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr. + solv.) i.v. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr + solv.) i.v. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00306</GalCV>
+    <NGalNm>inj./instill. oploss. (pdr. + solv.) i.m./i.v./i.vesic./endotrach./i.perit./i.pleur. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inj./instill. (pdr + solv.) i.m./i.v./i.vésic./endotrach./i.périt./i.pleur. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00307</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.m. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.m. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00308</GalCV>
+    <NGalNm>gel Dermgel</NGalNm>
+    <FGalNm>gel Dermgel</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00309</GalCV>
+    <NGalNm>cut. oploss. Once</NGalNm>
+    <FGalNm>sol. cut. Once</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00310</GalCV>
+    <NGalNm>inj. oploss. epidur./epilaes./p.neur. [flac., locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj. épilés./p.dural/p.neur. [flac., infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00311</GalCV>
+    <NGalNm>inj./inf. oploss. i.m./i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.m./i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00312</GalCV>
+    <NGalNm>inj. susp. verl. afgifte i.derm./i.artic. [flac.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. i.derm./i.artic. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00313</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr.) i.v./i.arter. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr) i.v./i.artér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00314</GalCV>
+    <NGalNm>verneveloploss. (unidose)</NGalNm>
+    <FGalNm>sol. inhal. nébul. (unidose)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00315</GalCV>
+    <NGalNm>inj. oploss. i.arter./i.lymf./i.uter. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.artér./i.lymph./i.utér. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00316</GalCV>
+    <NGalNm>inj. oploss. i.m./s.c. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. i.m./s.c. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00317</GalCV>
+    <NGalNm>inj. susp. (pdr. + solv.) i.m./s.c. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. (pdr + solv.) i.m./s.c. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00318</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.m./s.c. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.m./s.c. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00319</GalCV>
+    <NGalNm>verband Sacrum Border</NGalNm>
+    <FGalNm>pansement Sacrum Border</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00320</GalCV>
+    <NGalNm>inj. oploss. i.m./s.c./i.derm./i.artic./p.artic. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.m./s.c./i.derm./i.artic./p.artic. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00321</GalCV>
+    <NGalNm>i.v./or. inf./drinkb. oploss. conc. (pdr.) [flac.]</NGalNm>
+    <FGalNm>sol. perf./buv. à diluer (pdr) i.v./or. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00322</GalCV>
+    <NGalNm>inj./inf./drinkb. oploss. (pdr. + solv.) i.m./i.v./or. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inj./perf./buv. (pdr + solv.) i.m./i.v./or. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00323</GalCV>
+    <NGalNm>dosisaerosol oploss. HFA [inhalator]</NGalNm>
+    <FGalNm>sol. inhal. (flacon press.) HFA [inhalateur]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00324</GalCV>
+    <NGalNm>dosisaerosol oploss. HFA</NGalNm>
+    <FGalNm>sol. inhal. (flacon press.) HFA</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00325</GalCV>
+    <NGalNm>dosisaerosol oploss. Autohaler [ademgest.]</NGalNm>
+    <FGalNm>sol. inhal. (flacon press.) Autohaler [déclenché par la resp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00326</GalCV>
+    <NGalNm>inhalatiepdr. (voorverdeeld) Diskus</NGalNm>
+    <FGalNm>poudre inhal. (unidose) Diskus</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00327</GalCV>
+    <NGalNm>kauwtabl. Forte Citroen</NGalNm>
+    <FGalNm>compr. à croquer Forte Citron</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00328</GalCV>
+    <NGalNm>bruistabl. Forte Sinaasappel</NGalNm>
+    <FGalNm>compr. efferv. Forte Orange</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00329</GalCV>
+    <NGalNm>nas. spray oploss. Eucalyptus</NGalNm>
+    <FGalNm>sol. spray nas. Eucalyptus</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00330</GalCV>
+    <NGalNm>bruisgran. (zakjes) Forte Orange</NGalNm>
+    <FGalNm>gran. efferv. (sachet) Forte Orange</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00331</GalCV>
+    <NGalNm>gastr./or. oploss.</NGalNm>
+    <FGalNm>sol. gastr./or.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00332</GalCV>
+    <NGalNm>inj. oploss. epidur./p.neur. [amp., locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj. p.dural/p.neur. [amp., infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00333</GalCV>
+    <NGalNm>harde caps. Immediate Release</NGalNm>
+    <FGalNm>gél. Immediate Release</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00334</GalCV>
+    <NGalNm>inj. oploss. i.artic. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. i.artic. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00335</GalCV>
+    <NGalNm>ocul. druppels verl. afgifte LA Sine Conservans [zonder bew.]</NGalNm>
+    <FGalNm>collyre lib. prol. LA Sine Conservans [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00336</GalCV>
+    <NGalNm>inj./instill. oploss. i.m./i.v./i.artic./i.burs./rect. [amp.]</NGalNm>
+    <FGalNm>sol. inj./instill. i.m./i.v./i.artic./i.burs./rect. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00337</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr.) i.m./i.v./i.artic./i.burs. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr) i.m./i.v./i.artic./i.burs. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00338</GalCV>
+    <NGalNm>auric./ocul. druppels susp. [zonder bew.]</NGalNm>
+    <FGalNm>gtts susp. auric./opht. [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00339</GalCV>
+    <NGalNm>auric./ocul. zalf [zonder bew.]</NGalNm>
+    <FGalNm>pommade auric./opht. [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00340</GalCV>
+    <NGalNm>oromuc. zuigtabl. Fruit</NGalNm>
+    <FGalNm>compr. à sucer oromuq. Fruit</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00341</GalCV>
+    <NGalNm>nas. spray oploss. Menthol</NGalNm>
+    <FGalNm>sol. spray nas. Menthol</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00342</GalCV>
+    <NGalNm>inj. susp. s.c. [flac.]</NGalNm>
+    <FGalNm>susp. inj. s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00343</GalCV>
+    <NGalNm>inhalatiepdr. (voorverdeeld) Forspiro</NGalNm>
+    <FGalNm>poudre inhal. (unidose) Forspiro</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00344</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.v./s.c. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.v./s.c. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00345</GalCV>
+    <NGalNm>inj. oploss./inj. oploss. (conc.) i.v./s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj./sol. inj. à diluer i.v./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00346</GalCV>
+    <NGalNm>rect. gel</NGalNm>
+    <FGalNm>gel rect.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00347</GalCV>
+    <NGalNm>inj. oploss. s.c. SureClick [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. SureClick [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00348</GalCV>
+    <NGalNm>orofar. zuigtabl. Vit. C Sinaasappel</NGalNm>
+    <FGalNm>past. orophar. Vit. C Orange</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00349</GalCV>
+    <NGalNm>kauwtabl. D3 Sinaasappel</NGalNm>
+    <FGalNm>compr. à croquer D3 Orange</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00350</GalCV>
+    <NGalNm>filmomh. tabl. Junior</NGalNm>
+    <FGalNm>compr. pellic. Junior</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00351</GalCV>
+    <NGalNm>inj. oploss. (pdr.) i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00352</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.m./i.v. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.m./i.v. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00353</GalCV>
+    <NGalNm>cut. oploss. (alc.) Alcoholicus + Azorubine</NGalNm>
+    <FGalNm>sol. cut. (alc.) Alcoholicus + Azorubine</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00354</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr. + solv.) i.m./i.v. S.A.B. Act-O-Vial [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr + solv.) i.m./i.v. S.A.B. Act-O-Vial [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00355</GalCV>
+    <NGalNm>inf. disp. i.v. [zak]</NGalNm>
+    <FGalNm>disp. perf. i.v. [sac]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00356</GalCV>
+    <NGalNm>inj. oploss. (pdr.) s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00357</GalCV>
+    <NGalNm>i.laes. implantatiematrix (pdr. + solv. + matrix)</NGalNm>
+    <FGalNm>matrice pour implant. (pdr + solv. + matrice) i.lés.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00358</GalCV>
+    <NGalNm>maagsapresist. tabl. Enteric Coated</NGalNm>
+    <FGalNm>compr. gastro-résist. Enteric Coated</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00359</GalCV>
+    <NGalNm>i.vesic. susp. (pdr.) [flac.]</NGalNm>
+    <FGalNm>susp. (pdr) i.vésic. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00360</GalCV>
+    <NGalNm>verband Plus</NGalNm>
+    <FGalNm>pansement Plus</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00361</GalCV>
+    <NGalNm>kauwtabl. Munt</NGalNm>
+    <FGalNm>compr. à croquer Menthe</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00362</GalCV>
+    <NGalNm>or./rect. susp. (pdr.)</NGalNm>
+    <FGalNm>susp. (pdr) or./rect.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00363</GalCV>
+    <NGalNm>harde caps. Volw.</NGalNm>
+    <FGalNm>gél. Adulte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00364</GalCV>
+    <NGalNm>inj./inf. oploss. i.v./epidur. Forte [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v./p.dural Forte [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00365</GalCV>
+    <NGalNm>inj. susp. verl. afgifte i.m. [flac.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. i.m. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00366</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.m. [2x flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.m. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00367</GalCV>
+    <NGalNm>cut. oploss. (alc.)</NGalNm>
+    <FGalNm>sol. cut. (alc.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00368</GalCV>
+    <NGalNm>harde caps. Kind</NGalNm>
+    <FGalNm>gél. Enfant</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00369</GalCV>
+    <NGalNm>inj. susp. verl. afgifte s.c. Press [voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. s.c. Press [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00370</GalCV>
+    <NGalNm>maagsapresist. tabl. Enteric</NGalNm>
+    <FGalNm>compr. gastro-résist. Enteric</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00371</GalCV>
+    <NGalNm>inj./inf./instill./verneveloploss. i.m./i.v./auric./endotrach./inhal./nas. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf./instill./inhal. nébul. i.m./i.v./auric./endotrach./inhal./nas. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00372</GalCV>
+    <NGalNm>inj. susp. s.c. Cartridge [patr.]</NGalNm>
+    <FGalNm>susp. inj. s.c. Cartridge [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00373</GalCV>
+    <NGalNm>inj. susp. i.m./s.c. [flac.]</NGalNm>
+    <FGalNm>susp. inj. i.m./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00374</GalCV>
+    <NGalNm>endotrach./inhal./nas. druppels/verneveloploss. (pdr. + solv.) [druppelfl.]</NGalNm>
+    <FGalNm>sol. gtts/inhal. nébul. (pdr + solv.) endotrach./inhal./nas. [flac. compte-gouttes]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00375</GalCV>
+    <NGalNm>inj./instill. susp. verl. afgifte i.m./i.artic./i.laes./i.burs./p.artic./rect. [voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj./instill. lib. prol. i.m./i.artic./i.lés./i.burs./p.artic./rect. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00376</GalCV>
+    <NGalNm>inj./inf. oploss. (conc.) i.m./i.v./s.c. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. à diluer i.m./i.v./s.c. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00377</GalCV>
+    <NGalNm>crème Labialis</NGalNm>
+    <FGalNm>crème Labialis</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00378</GalCV>
+    <NGalNm>cut. susp. Wash</NGalNm>
+    <FGalNm>susp. cut. Wash</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00379</GalCV>
+    <NGalNm>oplosb. tabl.</NGalNm>
+    <FGalNm>compr. sol.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00380</GalCV>
+    <NGalNm>inf. emuls. i.v. [voorgev. spuit]</NGalNm>
+    <FGalNm>émuls. perf. i.v. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00381</GalCV>
+    <NGalNm>bruispdr. (zakjes)</NGalNm>
+    <FGalNm>poudre efferv. (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00382</GalCV>
+    <NGalNm>or. pasta</NGalNm>
+    <FGalNm>pâte or.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00383</GalCV>
+    <NGalNm>inj. oploss. i.m./s.c./i.derm. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.m./s.c./i.derm. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00384</GalCV>
+    <NGalNm>inj./inf. oploss. i.v./i.arter. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v./i.artér. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00385</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.cavern. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.cavern. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00386</GalCV>
+    <NGalNm>inj. oploss. i.vitr. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. i.vitr. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00387</GalCV>
+    <NGalNm>inj. oploss. s.c. SmartJect [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. SmartJect [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00388</GalCV>
+    <NGalNm>inj. disp. i.v. [flac.]</NGalNm>
+    <FGalNm>disp. inj. i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00389</GalCV>
+    <NGalNm>crème (pomp)</NGalNm>
+    <FGalNm>crème (pompe)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00390</GalCV>
+    <NGalNm>tabl. geregul. afgifte</NGalNm>
+    <FGalNm>compr. lib. modif.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00391</GalCV>
+    <NGalNm>inj. oploss. (pdr.) i.m./i.gland. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) i.m./i.gland. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00392</GalCV>
+    <NGalNm>omh. tabl. (deelb. kwantit.)</NGalNm>
+    <FGalNm>compr. enr. (séc. quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00393</GalCV>
+    <NGalNm>inj. oploss./inf. oploss. (conc.) i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj./sol. perf. à diluer i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00394</GalCV>
+    <NGalNm>inj. susp. (pdr.) s.c. [flac.]</NGalNm>
+    <FGalNm>susp. inj. (pdr) s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00395</GalCV>
+    <NGalNm>gran. (zakjes) Instant Vanille Aardbei</NGalNm>
+    <FGalNm>gran. (sachet) Instant Vanille Fraise</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00396</GalCV>
+    <NGalNm>inj. oploss. s.c. KwikPen [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. KwikPen [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00397</GalCV>
+    <NGalNm>inf. disp. (conc.) i.v. Pegylated Liposomal [flac.]</NGalNm>
+    <FGalNm>disp. perf. à diluer i.v. Pegylated Liposomal [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00398</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr.) i.m./i.v./s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr) i.m./i.v./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00399</GalCV>
+    <NGalNm>inj. oploss. s.c. Junior KwikPen [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. Junior KwikPen [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00400</GalCV>
+    <NGalNm>inj. susp. (pdr. + susp.) i.m. [2x flac.]</NGalNm>
+    <FGalNm>susp. inj. (pdr + susp.) i.m. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00401</GalCV>
+    <NGalNm>inj. susp. s.c. Starter Pack [flac.]</NGalNm>
+    <FGalNm>susp. inj. s.c. Starter Pack [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00402</GalCV>
+    <NGalNm>endocerv. gel [voorgev. spuit]</NGalNm>
+    <FGalNm>gel endocerv. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00403</GalCV>
+    <NGalNm>inf. disp. conc. (pdr.) i.v. Liposomaal [flac.]</NGalNm>
+    <FGalNm>disp. perf. à diluer (pdr) i.v. Liposomale [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00404</GalCV>
+    <NGalNm>nas. druppels oploss.</NGalNm>
+    <FGalNm>gtts sol. nas.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00405</GalCV>
+    <NGalNm>cut. oploss. Lotion</NGalNm>
+    <FGalNm>sol. cut. Lotion</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00406</GalCV>
+    <NGalNm>inf. emuls. (conc.) i.v. Kind [amp.]</NGalNm>
+    <FGalNm>émuls. perf. à diluer i.v. Enfant [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00407</GalCV>
+    <NGalNm>inf. emuls. (conc.) i.v. Volw. [amp.]</NGalNm>
+    <FGalNm>émuls. perf. à diluer i.v. Adulte [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00408</GalCV>
+    <NGalNm>orofar. zuigpastille</NGalNm>
+    <FGalNm>pâte à sucer orophar.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00409</GalCV>
+    <NGalNm>transderm. pleister Septem</NGalNm>
+    <FGalNm>dispositif transderm. Septem</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00410</GalCV>
+    <NGalNm>filmomh. tabl. Conti</NGalNm>
+    <FGalNm>compr. pellic. Conti</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00411</GalCV>
+    <NGalNm>inf. oploss. (pdr.) i.v. I.V. [flac.]</NGalNm>
+    <FGalNm>sol. perf. (pdr) i.v. I.V. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00412</GalCV>
+    <NGalNm>transderm. lok. spray oploss.</NGalNm>
+    <FGalNm>sol. spray transderm. local</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00413</GalCV>
+    <NGalNm>s.c. implantaat NXT [implantaatinjector]</NGalNm>
+    <FGalNm>implant s.c. NXT [pistolet pour implant]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00414</GalCV>
+    <NGalNm>zalf voor inhalatiedamp [pot]</NGalNm>
+    <FGalNm>pommade inhal. vapeur [pot]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00415</GalCV>
+    <NGalNm>tabl. (deelb. kwantit.) Besilaat</NGalNm>
+    <FGalNm>compr. (séc. quantit.) Besilaat</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00416</GalCV>
+    <NGalNm>omh. tabl. (deelb. kwantit.) Divule</NGalNm>
+    <FGalNm>compr. enr. (séc. quantit.) Divule</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00417</GalCV>
+    <NGalNm>tabl. Besilate</NGalNm>
+    <FGalNm>compr. Besilate</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00418</GalCV>
+    <NGalNm>ocul. insert</NGalNm>
+    <FGalNm>insert opht.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00419</GalCV>
+    <NGalNm>inj./inf. oploss. (conc.) i.v./s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. à diluer i.v./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00420</GalCV>
+    <NGalNm>inj./inf. oploss. (conc.) i.v./s.c. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj./perf. à diluer i.v./s.c. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00421</GalCV>
+    <NGalNm>orofar. spray oploss. Honing en Citroen</NGalNm>
+    <FGalNm>sol. spray orophar. Miel et Citron</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00422</GalCV>
+    <NGalNm>siroop susp. (pdr.)</NGalNm>
+    <FGalNm>sirop susp. (pdr)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00423</GalCV>
+    <NGalNm>inj./inf. oploss. (conc.) i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. à diluer i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00424</GalCV>
+    <NGalNm>inj./drinkb. oploss. i.v./or. [amp.]</NGalNm>
+    <FGalNm>sol. inj./buv. i.v./or. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00425</GalCV>
+    <NGalNm>inj./drinkb. oploss. i.m./i.v./or. Paediatric [amp.]</NGalNm>
+    <FGalNm>sol. inj./buv. i.m./i.v./or. Paediatric [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00426</GalCV>
+    <NGalNm>inf. oploss. (toed. systeem) p.neur. [pomp, locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. perf. (système admin.) p.neur. [pompe, infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00427</GalCV>
+    <NGalNm>inj. oploss. i.derm. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.derm. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00428</GalCV>
+    <NGalNm>vag. afgiftesysteem</NGalNm>
+    <FGalNm>système de diffusion vag.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00429</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.m./i.v./s.c. Hypokit [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.m./i.v./s.c. Hypokit [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00430</GalCV>
+    <NGalNm>i.laes. implantaat</NGalNm>
+    <FGalNm>implant i.lés.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00431</GalCV>
+    <NGalNm>inf. oploss. (conc.)/inf. oploss. i.v./s.c. [flac.]</NGalNm>
+    <FGalNm>sol. perf. à diluer/sol. perf. i.v./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00432</GalCV>
+    <NGalNm>cut. oploss. (doseerpomp)</NGalNm>
+    <FGalNm>sol. cut. (pompe doseuse)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00433</GalCV>
+    <NGalNm>zalf Balsem</NGalNm>
+    <FGalNm>pommade Baume</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00434</GalCV>
+    <NGalNm>gorgeldrank/mondspoeling</NGalNm>
+    <FGalNm>gargarisme/bain de bouche</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00435</GalCV>
+    <NGalNm>i.vitr. implantaat (applic.)</NGalNm>
+    <FGalNm>implant (applic.) i.vitr.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00436</GalCV>
+    <NGalNm>omh. tabl. Forte</NGalNm>
+    <FGalNm>compr. enr. Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00437</GalCV>
+    <NGalNm>omh. tabl. Kinderen</NGalNm>
+    <FGalNm>compr. enr. Enfants</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00438</GalCV>
+    <NGalNm>inj. oploss. (pdr.) i.v./s.c./i.derm./p.tumor. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) i.v./s.c./i.derm./p.tumor. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00439</GalCV>
+    <NGalNm>orofar. zuigtabl. Honing/Citroen</NGalNm>
+    <FGalNm>past. orophar. Miel/Citron</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00440</GalCV>
+    <NGalNm>orofar. zuigtabl. Suikervrij Citroen</NGalNm>
+    <FGalNm>past. orophar. Sans Sucre Citron</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00441</GalCV>
+    <NGalNm>orofar. zuigtabl. Suikervrij Aardbei</NGalNm>
+    <FGalNm>past. orophar. Sans Sucre Fraise</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00442</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr.) i.v. P [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr) i.v. P [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00443</GalCV>
+    <NGalNm>siroop oploss. (zakjes)</NGalNm>
+    <FGalNm>sirop sol. (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00444</GalCV>
+    <NGalNm>siroop oploss. (zakjes) Fruit</NGalNm>
+    <FGalNm>sirop sol. (sachet) Fruit</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00445</GalCV>
+    <NGalNm>filmomh. tabl. Low</NGalNm>
+    <FGalNm>compr. pellic. Low</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00446</GalCV>
+    <NGalNm>inhalatiepdr. (harde caps.) Breezhaler</NGalNm>
+    <FGalNm>poudre inhal. (gél.) Breezhaler</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00447</GalCV>
+    <NGalNm>oploss. (conc.) Vloeibaar Sinaasappelsmaak</NGalNm>
+    <FGalNm>sol. à diluer Liquide Goût orange</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00448</GalCV>
+    <NGalNm>inj. oploss. i.artic./epidur./p.neur. [flac., locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj. i.artic./p.dural/p.neur. [flac., infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00449</GalCV>
+    <NGalNm>inj. susp. verl. afgifte (pdr. + solv.) i.m./s.c. [flac. + amp.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. (pdr + solv.) i.m./s.c. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00450</GalCV>
+    <NGalNm>2/125 tabl.</NGalNm>
+    <FGalNm>2/125 compr.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00451</GalCV>
+    <NGalNm>verband Tulle</NGalNm>
+    <FGalNm>pansement Tulle</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00452</GalCV>
+    <NGalNm>inj. oploss. verl. afgifte i.m. Depot [amp.]</NGalNm>
+    <FGalNm>sol. inj. lib. prol. i.m. Depot [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00453</GalCV>
+    <NGalNm>inj. oploss. i.m. Acutard [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.m. Acutard [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00454</GalCV>
+    <NGalNm>inj./inf. oploss. s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00455</GalCV>
+    <NGalNm>tabl. verl. afgifte (deelb. kwantit.) Chrono 500</NGalNm>
+    <FGalNm>compr. lib. prol. (séc. quantit.) Chrono 500</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00456</GalCV>
+    <NGalNm>tabl. verl. afgifte (deelb. kwantit.)</NGalNm>
+    <FGalNm>compr. lib. prol. (séc. quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00457</GalCV>
+    <NGalNm>harde caps. verl. afgifte Exel</NGalNm>
+    <FGalNm>gél. lib. prol. Exel</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00458</GalCV>
+    <NGalNm>harde caps. verl. afgifte Retard</NGalNm>
+    <FGalNm>gél. lib. prol. Retard</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00459</GalCV>
+    <NGalNm>ocul. druppels verl. afgifte Ocumeter Plus</NGalNm>
+    <FGalNm>collyre lib. prol. Ocumeter Plus</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00460</GalCV>
+    <NGalNm>tabl. verl. afgifte Ocas</NGalNm>
+    <FGalNm>compr. lib. prol. Ocas</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00461</GalCV>
+    <NGalNm>tabl. verl. afgifte Modutab</NGalNm>
+    <FGalNm>compr. lib. prol. Modutab</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00462</GalCV>
+    <NGalNm>inj. susp. verl. afgifte (pdr. + solv.) i.m. Consta [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. (pdr + solv.) i.m. Consta [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00463</GalCV>
+    <NGalNm>tabl. verl. afgifte Once Daily</NGalNm>
+    <FGalNm>compr. lib. prol. Once Daily</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00464</GalCV>
+    <NGalNm>tabl. verl. afgifte XR</NGalNm>
+    <FGalNm>compr. lib. prol. XR</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00465</GalCV>
+    <NGalNm>inj. oploss. i.thec. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.théc. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00466</GalCV>
+    <NGalNm>inhalatiepdr. (voorverdeeld) Ellipta</NGalNm>
+    <FGalNm>poudre inhal. (unidose) Ellipta</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00467</GalCV>
+    <NGalNm>gran. verl. afgifte (zakjes)</NGalNm>
+    <FGalNm>gran. lib. prol. (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00468</GalCV>
+    <NGalNm>inj. oploss. i.vitr. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.vitr. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00469</GalCV>
+    <NGalNm>inj. oploss. s.c. ACTPen [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. ACTPen [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00470</GalCV>
+    <NGalNm>verband Post-op</NGalNm>
+    <FGalNm>pansement Post-op</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00471</GalCV>
+    <NGalNm>verband Sacrum</NGalNm>
+    <FGalNm>pansement Sacrum</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00472</GalCV>
+    <NGalNm>inhalatiepdr. Easyhaler</NGalNm>
+    <FGalNm>poudre inhal. Easyhaler</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00473</GalCV>
+    <NGalNm>ocul. druppels oploss. Sine Conservans [zonder bew.]</NGalNm>
+    <FGalNm>collyre sol. Sine Conservans [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00474</GalCV>
+    <NGalNm>zuigtabl.</NGalNm>
+    <FGalNm>past.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00475</GalCV>
+    <NGalNm>bruistabl. (deelb. kwantit.) Forte</NGalNm>
+    <FGalNm>compr. efferv. (séc. quantit.) Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00476</GalCV>
+    <NGalNm>wiek Extra</NGalNm>
+    <FGalNm>mèche Extra</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00477</GalCV>
+    <NGalNm>verband Standard</NGalNm>
+    <FGalNm>pansement Standard</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00478</GalCV>
+    <NGalNm>crème (zakjes)</NGalNm>
+    <FGalNm>crème (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00479</GalCV>
+    <NGalNm>inj. oploss. i.v./s.c./i.derm./epidur. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.v./s.c./i.derm./p.dural [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00480</GalCV>
+    <NGalNm>urethr. gel</NGalNm>
+    <FGalNm>gel urétr.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00481</GalCV>
+    <NGalNm>inf. oploss. s.c. [flac.]</NGalNm>
+    <FGalNm>sol. perf. s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00482</GalCV>
+    <NGalNm>tabl. (deelb. in 4 niet kwantit.) A</NGalNm>
+    <FGalNm>compr. (séc. en 4 non quantit.) A</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00483</GalCV>
+    <NGalNm>inj. oploss. i.thec. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.théc. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00484</GalCV>
+    <NGalNm>i.vesic. oploss. (pdr. + solv.) [2x flac.]</NGalNm>
+    <FGalNm>sol. (pdr + solv.) i.vésic. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00485</GalCV>
+    <NGalNm>inj./inf. oploss. epidur./p.neur. [amp., locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj./perf. p.dural/p.neur. [amp., infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00486</GalCV>
+    <NGalNm>rect. zalf</NGalNm>
+    <FGalNm>pommade rect.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00487</GalCV>
+    <NGalNm>druppels susp.</NGalNm>
+    <FGalNm>gtts susp.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00488</GalCV>
+    <NGalNm>inj./inf. oploss. epidur./p.neur. [zak, locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj./perf. p.dural/p.neur. [sac, infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00489</GalCV>
+    <NGalNm>inf./instill. oploss. i.v./i.vesic. [flac.]</NGalNm>
+    <FGalNm>sol. perf./instill. i.v./i.vésic. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00490</GalCV>
+    <NGalNm>susp. (zonder suiker)</NGalNm>
+    <FGalNm>susp. (sans sucre)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00491</GalCV>
+    <NGalNm>cut./vag. oploss.</NGalNm>
+    <FGalNm>sol. cut./vag.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00492</GalCV>
+    <NGalNm>disp. maagsapresist. tabl. Mups</NGalNm>
+    <FGalNm>compr. gastro-résist. disp. Mups</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00493</GalCV>
+    <NGalNm>tabl. verl. afgifte (deelb. niet kwantit.) 200</NGalNm>
+    <FGalNm>compr. lib. prol. (séc. non quantit.) 200</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00494</GalCV>
+    <NGalNm>tabl. verl. afgifte (deelb. kwantit.) 25</NGalNm>
+    <FGalNm>compr. lib. prol. (séc. quantit.) 25</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00495</GalCV>
+    <NGalNm>inj. susp. verl. afgifte (pdr. + solv.) i.m. L.A.R. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. (pdr + solv.) i.m. L.A.R. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00496</GalCV>
+    <NGalNm>s.c. implantaat L.A. [implantaatinjector]</NGalNm>
+    <FGalNm>implant s.c. L.A. [pistolet pour implant]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00497</GalCV>
+    <NGalNm>inj. oploss. verl. afgifte i.m. Decanoas [amp.]</NGalNm>
+    <FGalNm>sol. inj. lib. prol. i.m. Decanoas [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00498</GalCV>
+    <NGalNm>tabl. geregul. afgifte (deelb. kwantit.)</NGalNm>
+    <FGalNm>compr. lib. modif. (séc. quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00499</GalCV>
+    <NGalNm>tabl. (deelb. kwantit.) Forte</NGalNm>
+    <FGalNm>compr. (séc. quantit.) Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00500</GalCV>
+    <NGalNm>harde caps. verl. afgifte Slow Release</NGalNm>
+    <FGalNm>gél. lib. prol. Slow Release</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00501</GalCV>
+    <NGalNm>tabl. geregul. afgifte Uno</NGalNm>
+    <FGalNm>compr. lib. modif. Uno</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00502</GalCV>
+    <NGalNm>inf. oploss. (conc. + solv.) i.v. [2x flac.]</NGalNm>
+    <FGalNm>sol. perf. (sol. à diluer + solv.) i.v. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00503</GalCV>
+    <NGalNm>inj./drinkb. oploss. i.m./i.v./s.c./or. [amp.]</NGalNm>
+    <FGalNm>sol. inj./buv. i.m./i.v./s.c./or. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00504</GalCV>
+    <NGalNm>tabl. geregul. afgifte (deelb. kwantit.) CR</NGalNm>
+    <FGalNm>compr. lib. modif. (séc. quantit.) CR</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00505</GalCV>
+    <NGalNm>siroop oploss. Menthol</NGalNm>
+    <FGalNm>sirop sol. Menthol</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00506</GalCV>
+    <NGalNm>ocul. druppels verl. afgifte LA</NGalNm>
+    <FGalNm>collyre lib. prol. LA</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00507</GalCV>
+    <NGalNm>susp. (gran., zakjes) Junior</NGalNm>
+    <FGalNm>susp. (gran., sachet) Junior</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00508</GalCV>
+    <NGalNm>inhal. verneveloploss. (pdr. + solv.) [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inhal. nébul. (pdr + solv.) inhal. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00509</GalCV>
+    <NGalNm>inj. oploss. i.thec. Hyperbare [amp., locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj. i.théc. Hyperbare [amp., infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00510</GalCV>
+    <NGalNm>susp. (gran., zakjes) Baby</NGalNm>
+    <FGalNm>susp. (gran., sachet) Baby</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00511</GalCV>
+    <NGalNm>harde caps. verl. afgifte HBS</NGalNm>
+    <FGalNm>gél. lib. prol. HBS</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00512</GalCV>
+    <NGalNm>oromuc. spray oploss. Mint</NGalNm>
+    <FGalNm>sol. spray oromuq. Mint</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00513</GalCV>
+    <NGalNm>inf. oploss. (conc.) i.v. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. perf. à diluer i.v. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00514</GalCV>
+    <NGalNm>dosisaerosol susp. Autohaler [ademgest.]</NGalNm>
+    <FGalNm>susp. inhal. (flacon press.) Autohaler [déclenché par la resp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00515</GalCV>
+    <NGalNm>maagsapresist. zachte caps.</NGalNm>
+    <FGalNm>caps. molle gastro-résist.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00516</GalCV>
+    <NGalNm>inj. oploss. i.m. [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. i.m. [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00517</GalCV>
+    <NGalNm>filmomh. tabl. (deelb. kwantit.) Forte</NGalNm>
+    <FGalNm>compr. pellic. (séc. quantit.) Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00518</GalCV>
+    <NGalNm>inf. oploss. conc. (pdr. + solv.) i.v. Liposomal [flac.]</NGalNm>
+    <FGalNm>sol. perf. à diluer (pdr + solv.) i.v. Liposomal [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00519</GalCV>
+    <NGalNm>cut. oploss. (unidose) (alc.) Getinte</NGalNm>
+    <FGalNm>sol. (unidose) cut. (alc.) Coloré</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00520</GalCV>
+    <NGalNm>crème Lipid</NGalNm>
+    <FGalNm>crème Lipid</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00521</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.v. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.v. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00522</GalCV>
+    <NGalNm>inj. oploss. i.m./i.v. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. i.m./i.v. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00523</GalCV>
+    <NGalNm>inj. susp. (pdr. + solv.) s.c. [flac. + amp.]</NGalNm>
+    <FGalNm>susp. inj. (pdr + solv.) s.c. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00524</GalCV>
+    <NGalNm>inj. oploss. s.c. Daily [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. s.c. Daily [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00525</GalCV>
+    <NGalNm>inhalatiepdr. (harde caps.) [Handihaler]</NGalNm>
+    <FGalNm>poudre inhal. (gél.) [Handihaler]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00526</GalCV>
+    <NGalNm>inj./inf./drinkb. oploss. i.m./i.v./or. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf./buv. i.m./i.v./or. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00527</GalCV>
+    <NGalNm>inf./instill. oploss. i.v./i.cistern. [flac.]</NGalNm>
+    <FGalNm>sol. perf./instill. i.v./i.cistern. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00528</GalCV>
+    <NGalNm>subling. lyofilisaat Melt</NGalNm>
+    <FGalNm>lyophilisat subling. Melt</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00529</GalCV>
+    <NGalNm>inj./inf. oploss. i.v./i.arter. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v./i.artér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00530</GalCV>
+    <NGalNm>harde caps. geregul. afgifte Retard</NGalNm>
+    <FGalNm>gél. lib. modif. Retard</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00531</GalCV>
+    <NGalNm>rect. oploss.</NGalNm>
+    <FGalNm>sol. rect.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00532</GalCV>
+    <NGalNm>rect. oploss. Kind</NGalNm>
+    <FGalNm>sol. rect. Enfant</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00533</GalCV>
+    <NGalNm>harde caps. geregul. afgifte XR</NGalNm>
+    <FGalNm>gél. lib. modif. XR</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00534</GalCV>
+    <NGalNm>or. poeder (zakjes)</NGalNm>
+    <FGalNm>poudre (sachet) or.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00535</GalCV>
+    <NGalNm>inj. oploss./inf. oploss. (conc.) i.v./s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj./sol. perf. à diluer i.v./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00536</GalCV>
+    <NGalNm>rect. oploss. Volw.</NGalNm>
+    <FGalNm>sol. rect. Adulte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00537</GalCV>
+    <NGalNm>inj. susp. verl. afgifte (pdr. + solv.) i.m. SR [flac. + amp.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. (pdr + solv.) i.m. SR [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00538</GalCV>
+    <NGalNm>inj. susp. verl. afgifte (pdr. + solv.) i.m./s.c. SR [flac. + amp.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. (pdr + solv.) i.m./s.c. SR [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00539</GalCV>
+    <NGalNm>inj. oploss. i.thec. Hyperbar [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.théc. Hyperbar [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00540</GalCV>
+    <NGalNm>lyofilisaat Expidet</NGalNm>
+    <FGalNm>lyophilisat Expidet</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00541</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr.) i.m./i.v./s.c./i.arter./i.perit./i.pleur./i.tumor. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr) i.m./i.v./s.c./i.artér./i.périt./i.pleur./i.tumor. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00542</GalCV>
+    <NGalNm>omh. tabl. Fasttabs</NGalNm>
+    <FGalNm>compr. enr. Fasttabs</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00543</GalCV>
+    <NGalNm>transderm. pleister Invisipatch</NGalNm>
+    <FGalNm>dispositif transderm. Invisipatch</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00544</GalCV>
+    <NGalNm>inj. oploss. i.m./s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.m./s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00545</GalCV>
+    <NGalNm>maagsapresist. gran. verl. afgifte (zakjes)</NGalNm>
+    <FGalNm>gran. gastro-résist. lib. prol. (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00546</GalCV>
+    <NGalNm>tabl. geregul. afgifte XR</NGalNm>
+    <FGalNm>compr. lib. modif. XR</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00547</GalCV>
+    <NGalNm>orofar. zuigtabl. Honing</NGalNm>
+    <FGalNm>compr. à sucer orophar. Miel</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00548</GalCV>
+    <NGalNm>gel (pdr. + gel)</NGalNm>
+    <FGalNm>gel (pdr + gel)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00549</GalCV>
+    <NGalNm>orofar. zuigtabl. Aardbei</NGalNm>
+    <FGalNm>compr. à sucer orophar. Fraise</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00550</GalCV>
+    <NGalNm>inj./drinkb. oploss. i.m./i.v./or. [amp.]</NGalNm>
+    <FGalNm>sol. inj./buv. i.m./i.v./or. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00551</GalCV>
+    <NGalNm>filmomh. tabl. + bruisgran. (zakjes)</NGalNm>
+    <FGalNm>compr. pellic. + gran. efferv. (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00552</GalCV>
+    <NGalNm>wiek</NGalNm>
+    <FGalNm>mèche</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00553</GalCV>
+    <NGalNm>cut. oploss. (alc.) Transdermaal</NGalNm>
+    <FGalNm>sol. cut. (alc.) Transdermique</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00554</GalCV>
+    <NGalNm>oploss. (unidose) Forte</NGalNm>
+    <FGalNm>sol. (unidose) Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00555</GalCV>
+    <NGalNm>cut. oploss. (unidose) (alc.)</NGalNm>
+    <FGalNm>sol. (unidose) cut. (alc.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00556</GalCV>
+    <NGalNm>inj./inf./instill. oploss. i.v./i.artic./i.laes./cut./i.oss./i.perit./i.pleur. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf./instill. i.v./i.artic./i.lés./cut./i.oss./i.périt./i.pleur. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00557</GalCV>
+    <NGalNm>kauwtabl. Antizuur-Antireflux</NGalNm>
+    <FGalNm>compr. à croquer Antiacide-Antireflux</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00558</GalCV>
+    <NGalNm>lyofilisaat Zydis</NGalNm>
+    <FGalNm>lyophilisat Zydis</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00559</GalCV>
+    <NGalNm>gel Forte</NGalNm>
+    <FGalNm>gel Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00560</GalCV>
+    <NGalNm>gel Hydro</NGalNm>
+    <FGalNm>gel Hydro</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00561</GalCV>
+    <NGalNm>wiek Filler</NGalNm>
+    <FGalNm>mèche Filler</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00562</GalCV>
+    <NGalNm>verband Transparent</NGalNm>
+    <FGalNm>pansement Transparent</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00563</GalCV>
+    <NGalNm>wiek T</NGalNm>
+    <FGalNm>mèche T</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00564</GalCV>
+    <NGalNm>verband Extra dun</NGalNm>
+    <FGalNm>pansement Extra mince</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00565</GalCV>
+    <NGalNm>verband Extra dun [Ovaal]</NGalNm>
+    <FGalNm>pansement Extra mince [Ovale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00566</GalCV>
+    <NGalNm>verband Signal</NGalNm>
+    <FGalNm>pansement Signal</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00567</GalCV>
+    <NGalNm>verband Signal Hiel</NGalNm>
+    <FGalNm>pansement Signal Talon</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00568</GalCV>
+    <NGalNm>verband Signal Sacraal</NGalNm>
+    <FGalNm>pansement Signal Sacrum</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00569</GalCV>
+    <NGalNm>verband Concave</NGalNm>
+    <FGalNm>pansement Concave</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00570</GalCV>
+    <NGalNm>verband Sacral</NGalNm>
+    <FGalNm>pansement Sacral</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00571</GalCV>
+    <NGalNm>verband Thin</NGalNm>
+    <FGalNm>pansement Thin</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00572</GalCV>
+    <NGalNm>tabl. verl. afgifte Uno</NGalNm>
+    <FGalNm>compr. lib. prol. Uno</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00573</GalCV>
+    <NGalNm>ocul. druppels oploss. (unidose) Unit Dose [zonder bew.]</NGalNm>
+    <FGalNm>collyre sol. (unidose) Unit Dose [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00574</GalCV>
+    <NGalNm>verband Gentle Border Lite</NGalNm>
+    <FGalNm>pansement Gentle Border Lite</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00575</GalCV>
+    <NGalNm>verband Dun</NGalNm>
+    <FGalNm>pansement Fin</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00576</GalCV>
+    <NGalNm>verband Ultra</NGalNm>
+    <FGalNm>pansement Ultra</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00577</GalCV>
+    <NGalNm>inj. susp. verl. afgifte i.m./i.derm./i.artic./i.laes./i.burs./p.artic. [amp.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. i.m./i.derm./i.artic./i.lés./i.burs./p.artic. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00578</GalCV>
+    <NGalNm>inj. susp. verl. afgifte i.m./i.derm./i.artic./i.laes./i.burs./p.artic. [voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. i.m./i.derm./i.artic./i.lés./i.burs./p.artic. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00579</GalCV>
+    <NGalNm>verband Conformable</NGalNm>
+    <FGalNm>pansement Conformable</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00580</GalCV>
+    <NGalNm>verband Gentle Border</NGalNm>
+    <FGalNm>pansement Gentle Border</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00581</GalCV>
+    <NGalNm>verband Adhesive</NGalNm>
+    <FGalNm>pansement Adhesive</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00582</GalCV>
+    <NGalNm>verband Gentle Border Heel</NGalNm>
+    <FGalNm>pansement Gentle Border Heel</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00583</GalCV>
+    <NGalNm>inj. oploss. dent. Normal [patr.]</NGalNm>
+    <FGalNm>sol. inj. dent. Normal [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00584</GalCV>
+    <NGalNm>inj. oploss. dent. Special [patr.]</NGalNm>
+    <FGalNm>sol. inj. dent. Special [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00585</GalCV>
+    <NGalNm>ocul. druppels oploss. (unidose)</NGalNm>
+    <FGalNm>collyre sol. (unidose)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00586</GalCV>
+    <NGalNm>verband Life</NGalNm>
+    <FGalNm>pansement Life</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00587</GalCV>
+    <NGalNm>verband Life Sacrum</NGalNm>
+    <FGalNm>pansement Life Sacrum</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00588</GalCV>
+    <NGalNm>verband Life Heel</NGalNm>
+    <FGalNm>pansement Life Heel</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00589</GalCV>
+    <NGalNm>verband Non-adhesive</NGalNm>
+    <FGalNm>pansement Non-adhesive</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00590</GalCV>
+    <NGalNm>verband Adhesive Sacrum</NGalNm>
+    <FGalNm>pansement Adhesive Sacrum</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00591</GalCV>
+    <NGalNm>verband Klevend</NGalNm>
+    <FGalNm>pansement Adhésif</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00592</GalCV>
+    <NGalNm>verband Niet-klevend</NGalNm>
+    <FGalNm>pansement Non adhésif</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00593</GalCV>
+    <NGalNm>verband Soft Hold</NGalNm>
+    <FGalNm>pansement Soft Hold</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00594</GalCV>
+    <NGalNm>inj. oploss. dent. [patr.]</NGalNm>
+    <FGalNm>sol. inj. dent. [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00595</GalCV>
+    <NGalNm>verband Hiel</NGalNm>
+    <FGalNm>pansement Talon</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00596</GalCV>
+    <NGalNm>verband Heel</NGalNm>
+    <FGalNm>pansement Heel</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00597</GalCV>
+    <NGalNm>verband Adhesive [Ovaal]</NGalNm>
+    <FGalNm>pansement Adhesive [Ovale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00598</GalCV>
+    <NGalNm>inf. oploss. (conc.) i.m./i.v. [amp.]</NGalNm>
+    <FGalNm>sol. perf. à diluer i.m./i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00599</GalCV>
+    <NGalNm>gingiv./oromuc. geïmpr. wattenschijfjes Pellets</NGalNm>
+    <FGalNm>tampon impr. gingiv./oromuq. Pellets</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00600</GalCV>
+    <NGalNm>gingiv./oromuc. spray oploss. (alc.)</NGalNm>
+    <FGalNm>sol. spray gingiv./oromuq. (alc.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00601</GalCV>
+    <NGalNm>oploss. [doseerpomp]</NGalNm>
+    <FGalNm>sol. [pompe dos.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00602</GalCV>
+    <NGalNm>verneveloploss. [flac.]</NGalNm>
+    <FGalNm>sol. inhal. nébul. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00603</GalCV>
+    <NGalNm>auric. druppels oploss. (unidose)</NGalNm>
+    <FGalNm>gtts sol. (unidose) auric.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00604</GalCV>
+    <NGalNm>verband Border [Driehoekig]</NGalNm>
+    <FGalNm>pansement Border [Triangle]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00605</GalCV>
+    <NGalNm>verband Contour</NGalNm>
+    <FGalNm>pansement Contour</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00606</GalCV>
+    <NGalNm>verband Transparent Postoperatief</NGalNm>
+    <FGalNm>pansement Transparent Post-opératoire</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00607</GalCV>
+    <NGalNm>verband Zelfklevend</NGalNm>
+    <FGalNm>pansement Auto-adhésif</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00608</GalCV>
+    <NGalNm>maagsapresist. gran.</NGalNm>
+    <FGalNm>gran. gastro-résist.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00609</GalCV>
+    <NGalNm>inj./inf. oploss. s.c. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. s.c. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00610</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr.] voor Ovaleap Pen</NGalNm>
+    <FGalNm>sol. inj. s.c. [cart.] pour Ovaleap Pen</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00611</GalCV>
+    <NGalNm>rect. schuim</NGalNm>
+    <FGalNm>mousse rect.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00612</GalCV>
+    <NGalNm>i.epiderm. oploss. voor huidpriktest [flac.]</NGalNm>
+    <FGalNm>sol. pour prick-test i.épiderm. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00613</GalCV>
+    <NGalNm>ocul. druppels oploss. [pomp, zonder bew.]</NGalNm>
+    <FGalNm>collyre sol. [pompe, sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00614</GalCV>
+    <NGalNm>kauwtabl. (deelb. kwantit.)</NGalNm>
+    <FGalNm>compr. à croquer (séc. quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00615</GalCV>
+    <NGalNm>verband Rol</NGalNm>
+    <FGalNm>pansement Rouleau</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00616</GalCV>
+    <NGalNm>verband Tracheo</NGalNm>
+    <FGalNm>pansement Trachéo-fenestré</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00617</GalCV>
+    <NGalNm>bruisgran. (zakjes) Forte Citron</NGalNm>
+    <FGalNm>gran. efferv. (sachet) Forte Citron</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00618</GalCV>
+    <NGalNm>gingiv./oromuc. gel</NGalNm>
+    <FGalNm>gel gingiv./oromuq.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00619</GalCV>
+    <NGalNm>p.odont. gel (patr.)</NGalNm>
+    <FGalNm>gel p.odont. (cart.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00620</GalCV>
+    <NGalNm>inf. oploss. (conc.) i.v. (alc.) [amp.]</NGalNm>
+    <FGalNm>sol. perf. à diluer i.v. (alc.) [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00621</GalCV>
+    <NGalNm>inf. emuls. i.v. [flac.]</NGalNm>
+    <FGalNm>émuls. perf. i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00622</GalCV>
+    <NGalNm>inj. oploss. s.c. Sureclick [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. Sureclick [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00623</GalCV>
+    <NGalNm>bucc. spray oploss.</NGalNm>
+    <FGalNm>sol. spray bucc.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00624</GalCV>
+    <NGalNm>transderm. spray oploss. (doseerpomp)</NGalNm>
+    <FGalNm>sol. spray transderm. (pompe doseuse)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00625</GalCV>
+    <NGalNm>inj. oploss. i.camer. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.camér. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00626</GalCV>
+    <NGalNm>gel (pomp) Forte</NGalNm>
+    <FGalNm>gel (pompe) Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00627</GalCV>
+    <NGalNm>oploss. (unidose) Junior</NGalNm>
+    <FGalNm>sol. (unidose) Junior</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00628</GalCV>
+    <NGalNm>verband Border Lite</NGalNm>
+    <FGalNm>pansement Border Lite</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00629</GalCV>
+    <NGalNm>verband Heel Border</NGalNm>
+    <FGalNm>pansement Heel Border</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00630</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.m./s.c. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.m./s.c. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00631</GalCV>
+    <NGalNm>susp. [voorgev. applicator]</NGalNm>
+    <FGalNm>susp. [applic. prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00632</GalCV>
+    <NGalNm>inf. oploss. (pdr. + solv.) i.v. [3x flac., thermostabiele formule]</NGalNm>
+    <FGalNm>sol. perf. (pdr + solv.) i.v. [3x flac., formule thermostable]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00633</GalCV>
+    <NGalNm>nas. druppels oploss. Sine Conservans Baby</NGalNm>
+    <FGalNm>gtts sol. nas. Sine Conservans Bébé</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00634</GalCV>
+    <NGalNm>nas. spray oploss. Sine Conservans</NGalNm>
+    <FGalNm>sol. spray nas. Sine Conservans</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00635</GalCV>
+    <NGalNm>nas. spray oploss. Sine Conservans Pediatrie</NGalNm>
+    <FGalNm>sol. spray nas. Sine Conservans Pediatrie</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00636</GalCV>
+    <NGalNm>cut. oploss. (pdr. + solv.)</NGalNm>
+    <FGalNm>sol. (pdr + solv.) cut.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00637</GalCV>
+    <NGalNm>rect. susp. (tabl.) Enema</NGalNm>
+    <FGalNm>susp. rect. (compr.) Enema</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00638</GalCV>
+    <NGalNm>urethr. crème (unidose)</NGalNm>
+    <FGalNm>crème urétr. (unidose)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00639</GalCV>
+    <NGalNm>nas. spray oploss. (unidose)</NGalNm>
+    <FGalNm>sol. spray (unidose) nas.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00640</GalCV>
+    <NGalNm>inj. oploss. verl. afgifte (pdr. + solv.) s.c. [2x voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. lib. prol. (pdr + solv.) s.c. [2x ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00641</GalCV>
+    <NGalNm>inj. oploss. (pdr.) i.m./s.c./i.derm. [flac.]</NGalNm>
+    <FGalNm>sol. inj. (pdr) i.m./s.c./i.derm. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00642</GalCV>
+    <NGalNm>weefsellijm (oploss.) [voorgev. spuit]</NGalNm>
+    <FGalNm>colle (sol.) [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00643</GalCV>
+    <NGalNm>oploss. (pdr.)</NGalNm>
+    <FGalNm>sol. (pdr)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00644</GalCV>
+    <NGalNm>siroop oploss. Kinderen</NGalNm>
+    <FGalNm>sirop sol. Enfants</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00645</GalCV>
+    <NGalNm>dosisaerosol susp. Aerosphere</NGalNm>
+    <FGalNm>susp. inhal. (flacon press.) Aerosphere</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00646</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.m. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.m. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00647</GalCV>
+    <NGalNm>transderm. gel (zakjes)</NGalNm>
+    <FGalNm>gel (sachet) transderm.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00648</GalCV>
+    <NGalNm>disp. tabl. (deelb. kwantit.)</NGalNm>
+    <FGalNm>compr. disp. (séc. quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00649</GalCV>
+    <NGalNm>inj./inf./verneveloploss. (pdr.) i.v./i.thec./inhal./i.ventr. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf./inhal. nébul. (pdr) i.v./i.théc./inhal./i.ventr. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00650</GalCV>
+    <NGalNm>verneveloploss. [druppelfl.]</NGalNm>
+    <FGalNm>sol. inhal. nébul. [flac. compte-gouttes]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00651</GalCV>
+    <NGalNm>susp. [tube]</NGalNm>
+    <FGalNm>susp. [tube]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00652</GalCV>
+    <NGalNm>ocul. druppels oploss. (unidose) EDO [zonder bew.]</NGalNm>
+    <FGalNm>collyre sol. (unidose) EDO [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00653</GalCV>
+    <NGalNm>ocul. gel (unidose) [zonder bew.]</NGalNm>
+    <FGalNm>gel (unidose) opht. [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00654</GalCV>
+    <NGalNm>inj./inf. oploss. i.m./i.v./s.c./i.thec./epidur. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.m./i.v./s.c./i.théc./p.dural [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00655</GalCV>
+    <NGalNm>transderm. lok. gel (doseerpomp)</NGalNm>
+    <FGalNm>gel transderm. local (pompe doseuse)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00656</GalCV>
+    <NGalNm>transderm. lok. gel Forte</NGalNm>
+    <FGalNm>gel transderm. local Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00657</GalCV>
+    <NGalNm>orofar. spray oploss. Kers en Munt</NGalNm>
+    <FGalNm>sol. spray orophar. Cerise et Menthe</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00658</GalCV>
+    <NGalNm>orofar. zuigtabl. Suikervrij Muntsmaak</NGalNm>
+    <FGalNm>past. orophar. Sans Sucre Goût Menthe</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00659</GalCV>
+    <NGalNm>transderm. pleister Clear</NGalNm>
+    <FGalNm>dispositif transderm. Clear</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00660</GalCV>
+    <NGalNm>oromuc. zuigtabl. Minilozenge</NGalNm>
+    <FGalNm>compr. à sucer oromuq. Minilozenge</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00661</GalCV>
+    <NGalNm>inj. oploss. s.c. ClickJect [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. ClickJect [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00662</GalCV>
+    <NGalNm>epilaes. medic. spons</NGalNm>
+    <FGalNm>éponge médic. épilés.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00663</GalCV>
+    <NGalNm>inj./inf./instill. oploss. (pdr.) i.v./i.vesic. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf./instill. (pdr) i.v./i.vésic. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00664</GalCV>
+    <NGalNm>inf./drinkb. oploss. i.v./or. [amp.]</NGalNm>
+    <FGalNm>sol. perf./buv. i.v./or. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00665</GalCV>
+    <NGalNm>bucc. oploss. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. bucc. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00666</GalCV>
+    <NGalNm>cut./or. oploss. (pdr.)</NGalNm>
+    <FGalNm>sol. (pdr) cut./or.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00667</GalCV>
+    <NGalNm>inhalatiepdr. [Nexthaler]</NGalNm>
+    <FGalNm>poudre inhal. [Nexthaler]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00668</GalCV>
+    <NGalNm>inhalatiepdr. Nexthaler</NGalNm>
+    <FGalNm>poudre inhal. Nexthaler</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00669</GalCV>
+    <NGalNm>inhalatiepdr. Turbohaler</NGalNm>
+    <FGalNm>poudre inhal. Turbohaler</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00670</GalCV>
+    <NGalNm>oromuc. zuigtabl. Minilozenge Citrus</NGalNm>
+    <FGalNm>compr. à sucer oromuq. Minilozenge Citrus</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00671</GalCV>
+    <NGalNm>inhalatiepdr. Forte Turbohaler</NGalNm>
+    <FGalNm>poudre inhal. Forte Turbohaler</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00672</GalCV>
+    <NGalNm>inhalatiepdr. Genuair</NGalNm>
+    <FGalNm>poudre inhal. Genuair</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00673</GalCV>
+    <NGalNm>inhalatiepdr. (harde caps.) Podhaler</NGalNm>
+    <FGalNm>poudre inhal. (gél.) Podhaler</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00674</GalCV>
+    <NGalNm>inhalatiepdr. (harde caps.) [Turbospin]</NGalNm>
+    <FGalNm>poudre inhal. (gél.) [Turbospin]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00675</GalCV>
+    <NGalNm>tabl. Minor</NGalNm>
+    <FGalNm>compr. Minor</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00676</GalCV>
+    <NGalNm>bruistabl. (deelb. niet kwantit.) Forte</NGalNm>
+    <FGalNm>compr. efferv. (séc. non quantit.) Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00677</GalCV>
+    <NGalNm>intest. gel</NGalNm>
+    <FGalNm>gel intest.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00678</GalCV>
+    <NGalNm>intest. gel [patr.]</NGalNm>
+    <FGalNm>gel intest. [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00679</GalCV>
+    <NGalNm>crème Lipocrème</NGalNm>
+    <FGalNm>crème Lipocrème</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00680</GalCV>
+    <NGalNm>cut. emuls. Crelo</NGalNm>
+    <FGalNm>émuls. cut. Crelo</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00681</GalCV>
+    <NGalNm>inj. susp. (pdr. + solv.) i.v. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. (pdr + solv.) i.v. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00682</GalCV>
+    <NGalNm>gastr./or. susp. (gran.)</NGalNm>
+    <FGalNm>susp. (gran.) gastr./or.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00683</GalCV>
+    <NGalNm>gastr./or. oploss. (pdr.)</NGalNm>
+    <FGalNm>sol. (pdr) gastr./or.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00684</GalCV>
+    <NGalNm>subling. orodisp. tabl.</NGalNm>
+    <FGalNm>compr. orodisp. subling.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00685</GalCV>
+    <NGalNm>omh. gran. (zakjes)</NGalNm>
+    <FGalNm>gran. enr. (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00686</GalCV>
+    <NGalNm>kauwtabl. D3 Citroen</NGalNm>
+    <FGalNm>compr. à croquer D3 Citron</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00687</GalCV>
+    <NGalNm>or./rect. susp. Suspensie</NGalNm>
+    <FGalNm>susp. or./rect. Suspension</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00688</GalCV>
+    <NGalNm>harde caps. geregul. afgifte Modified Release</NGalNm>
+    <FGalNm>gél. lib. modif. Modified Release</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00689</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) s.c. GoQuick [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) s.c. GoQuick [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00690</GalCV>
+    <NGalNm>tabl. + filmomh. tabl.</NGalNm>
+    <FGalNm>compr. + compr. pellic.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00691</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.m. IM Lidocaïne [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.m. IM Lidocaïne [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00692</GalCV>
+    <NGalNm>verneveldisp. Liposomaal [flac.]</NGalNm>
+    <FGalNm>disp. inhal. nébul. Liposomal [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00693</GalCV>
+    <NGalNm>filmomh. tabl. (deelb. kwantit.) Fasttabs</NGalNm>
+    <FGalNm>compr. pellic. (séc. quantit.) Fasttabs</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00694</GalCV>
+    <NGalNm>siroop oploss. (zonder suiker) Junior</NGalNm>
+    <FGalNm>sirop sol. (sans sucre) Junior</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00695</GalCV>
+    <NGalNm>gran. (zakjes) Instant Forte Cappuccino</NGalNm>
+    <FGalNm>gran. (sachet) Instant Forte Cappuccino</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00696</GalCV>
+    <NGalNm>lyofilisaat</NGalNm>
+    <FGalNm>lyophilisat</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00697</GalCV>
+    <NGalNm>zetpil Zuigelingen</NGalNm>
+    <FGalNm>supp. Bébés</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00698</GalCV>
+    <NGalNm>inf. disp. (pdr.) i.v. [flac.]</NGalNm>
+    <FGalNm>disp. perf. (pdr) i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00699</GalCV>
+    <NGalNm>subling. tabl. (applic.)</NGalNm>
+    <FGalNm>compr. subling. (applic.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00700</GalCV>
+    <NGalNm>inj. oploss./inj. oploss. (conc.) i.m./i.v. [amp.]</NGalNm>
+    <FGalNm>sol. inj./sol. inj. à diluer i.m./i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00701</GalCV>
+    <NGalNm>inj. /inf. disp. i.v. [flac.]</NGalNm>
+    <FGalNm>disp. inj./perf. i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00702</GalCV>
+    <NGalNm>inj. oploss. (conc. + solv.) s.retin. [3x flac.]</NGalNm>
+    <FGalNm>sol. inj. (sol. à diluer + solv.) s.rétin. [3x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00703</GalCV>
+    <NGalNm>nas. poeder (unidose)</NGalNm>
+    <FGalNm>poudre (unidose) nas.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00704</GalCV>
+    <NGalNm>verband [Rond]</NGalNm>
+    <FGalNm>pansement [Rond]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00705</GalCV>
+    <NGalNm>inj. oploss./inf. oploss. (conc.) i.m./i.v./s.c. [amp.]</NGalNm>
+    <FGalNm>sol. inj./sol. perf. à diluer i.m./i.v./s.c. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00706</GalCV>
+    <NGalNm>zalf (zakjes)</NGalNm>
+    <FGalNm>pommade (sachet)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00707</GalCV>
+    <NGalNm>eq. levend weefsel implant.</NGalNm>
+    <FGalNm>substitut de tissu vivant implant.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00708</GalCV>
+    <NGalNm>inj. oploss. s.c. DoubleStar [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. DoubleStar [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00709</GalCV>
+    <NGalNm>inj. susp. verl. afgifte (pdr. + solv.) i.m. [2x flac.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. (pdr + solv.) i.m. [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00710</GalCV>
+    <NGalNm>oploss. Pediatrie</NGalNm>
+    <FGalNm>sol. Pédiatrique</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00711</GalCV>
+    <NGalNm>inf. oploss. conc. (pdr.) i.v. Liposomal [flac.]</NGalNm>
+    <FGalNm>sol. perf. à diluer (pdr) i.v. Liposomal [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00712</GalCV>
+    <NGalNm>zalf + vag. tabl.</NGalNm>
+    <FGalNm>pommade + compr. vag.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00713</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr.] voor Smartclic</NGalNm>
+    <FGalNm>sol. inj. s.c. [cart.] pour Smartclic</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00714</GalCV>
+    <NGalNm>inj./inf. oploss. (conc.) i.m./i.v./i.thec./i.arter./i.ventr. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. à diluer i.m./i.v./i.théc./i.artér./i.ventr. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00715</GalCV>
+    <NGalNm>vag. oploss. Unigyn</NGalNm>
+    <FGalNm>sol. vag. Unigyn</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00716</GalCV>
+    <NGalNm>geïmpr. verbandgaas Tule</NGalNm>
+    <FGalNm>compresse impr. Tulle</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00717</GalCV>
+    <NGalNm>zeep Germicide</NGalNm>
+    <FGalNm>savon Germicide</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00718</GalCV>
+    <NGalNm>zeep (unidose) Uniwash</NGalNm>
+    <FGalNm>savon (unidose) Uniwash</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00719</GalCV>
+    <NGalNm>ocul. spoeloploss. [zonder bew.]</NGalNm>
+    <FGalNm>sol. irrig. opht. [sans cons.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00720</GalCV>
+    <NGalNm>cut. oploss. Dermicum</NGalNm>
+    <FGalNm>sol. cut. Dermique</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00721</GalCV>
+    <NGalNm>vag. oploss. Gynecologie</NGalNm>
+    <FGalNm>sol. vag. Gynécologie</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00722</GalCV>
+    <NGalNm>gorgeldrank/mondspoeling Mondwater</NGalNm>
+    <FGalNm>gargarisme/bain de bouche Buccale</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00723</GalCV>
+    <NGalNm>verband Non-adhesive Heel</NGalNm>
+    <FGalNm>pansement Non-adhesive Heel</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00724</GalCV>
+    <NGalNm>verband Tracheostomy</NGalNm>
+    <FGalNm>pansement Tracheostomy</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00725</GalCV>
+    <NGalNm>verband Border Flex</NGalNm>
+    <FGalNm>pansement Border Flex</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00726</GalCV>
+    <NGalNm>verband Extra</NGalNm>
+    <FGalNm>pansement Extra</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00727</GalCV>
+    <NGalNm>inj. oploss./inf. oploss. conc. (pdr) i.m./i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj./sol. perf. à diluer (pdr) i.m./i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00728</GalCV>
+    <NGalNm>verband Border Flex Lite</NGalNm>
+    <FGalNm>pansement Border Flex Lite</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00729</GalCV>
+    <NGalNm>verband One</NGalNm>
+    <FGalNm>pansement One</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00730</GalCV>
+    <NGalNm>gran. (zakjes) Instant Rode vruchten</NGalNm>
+    <FGalNm>gran. (sachet) Instant Fruits rouges</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00731</GalCV>
+    <NGalNm>verband Comfort</NGalNm>
+    <FGalNm>pansement Comfort</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00732</GalCV>
+    <NGalNm>gran. (zakjes) Instant Junior Aardbei</NGalNm>
+    <FGalNm>gran. (sachet) Instant Junior Fraise</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00733</GalCV>
+    <NGalNm>gran. (zakjes) Instant Forte Rode vruchten</NGalNm>
+    <FGalNm>gran. (sachet) Instant Forte Fruits rouges</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00734</GalCV>
+    <NGalNm>tabl. Mitis</NGalNm>
+    <FGalNm>compr. Mitis</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00735</GalCV>
+    <NGalNm>inj. oploss. i.artic. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.artic. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00736</GalCV>
+    <NGalNm>cut. oploss. (unidose) (alc.) Hydroalcoholische</NGalNm>
+    <FGalNm>sol. (unidose) cut. (alc.) Hydroalcoolique</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00737</GalCV>
+    <NGalNm>inj. emuls. i.m. [flac.]</NGalNm>
+    <FGalNm>émuls. inj. i.m. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00738</GalCV>
+    <NGalNm>inj. susp. verl. afgifte (pdr. + solv.) i.m. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. (pdr + solv.) i.m. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00739</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr., on-body injector]</NGalNm>
+    <FGalNm>sol. inj. s.c. [cart., injecteur corporel]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00740</GalCV>
+    <NGalNm>cut. oploss. (unidose) Dermicum</NGalNm>
+    <FGalNm>sol. (unidose) cut. Dermique</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00741</GalCV>
+    <NGalNm>inj. oploss. i.m./s.c./i.derm./i.artic. [amp.]</NGalNm>
+    <FGalNm>sol. inj. i.m./s.c./i.derm./i.artic. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00742</GalCV>
+    <NGalNm>orodisp. film</NGalNm>
+    <FGalNm>film orodisp.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00743</GalCV>
+    <NGalNm>transderm. lok. geïmpr. verbandgaas</NGalNm>
+    <FGalNm>compresse impr. transderm. local</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00744</GalCV>
+    <NGalNm>inj. oploss. s.c. [patr.] voor Glaxopen</NGalNm>
+    <FGalNm>sol. inj. s.c. [cart.] pour Glaxopen</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00745</GalCV>
+    <NGalNm>inf. oploss. i.putam. [flac.]</NGalNm>
+    <FGalNm>sol. perf. i.putam. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00746</GalCV>
+    <NGalNm>tabl. verl. afgifte (deelb. kwantit.) Retard Divitabs</NGalNm>
+    <FGalNm>compr. lib. prol. (séc. quantit.) Retard Divitabs</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00747</GalCV>
+    <NGalNm>kauwtabl. (deelb. kwantit.) Forte Orange</NGalNm>
+    <FGalNm>compr. à croquer (séc. quantit.) Forte Orange</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00748</GalCV>
+    <NGalNm>tabl. verl. afgifte (deelb. niet kwantit.) Retard</NGalNm>
+    <FGalNm>compr. lib. prol. (séc. non quantit.) Retard</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00749</GalCV>
+    <NGalNm>tabl. verl. afgifte Repetabs</NGalNm>
+    <FGalNm>compr. lib. prol. Repetabs</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00750</GalCV>
+    <NGalNm>oplosb. tabl. (deelb. kwantit.)</NGalNm>
+    <FGalNm>compr. sol. (séc. quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00751</GalCV>
+    <NGalNm>tabl. verl. afgifte (deelb. kwantit.) L.A.</NGalNm>
+    <FGalNm>compr. lib. prol. (séc. quantit.) L.A.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00752</GalCV>
+    <NGalNm>inj. oploss. i.v./epidur./p.neur. [amp., locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj. i.v./p.dural/p.neur. [amp., infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00753</GalCV>
+    <NGalNm>inj. oploss. s.c. Junior Kwikpen [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. Junior Kwikpen [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00754</GalCV>
+    <NGalNm>or./subling. tabl. (deelb. niet kwantit.)</NGalNm>
+    <FGalNm>compr. or./subling. (séc. non quantit.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00755</GalCV>
+    <NGalNm>disp. maagsapresist. tabl. (deelb. niet kwantit.) Mups</NGalNm>
+    <FGalNm>compr. gastro-résist. disp. (séc. non quantit.) Mups</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00756</GalCV>
+    <NGalNm>i.vesic. susp. (pdr. + solv.) [flac. + zak]</NGalNm>
+    <FGalNm>susp. (pdr + solv.) i.vésic. [flac. + sac]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00757</GalCV>
+    <NGalNm>filmomh. tabl. (deelb. niet kwantit.) Mitis</NGalNm>
+    <FGalNm>compr. pellic. (séc. non quantit.) Mitis</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00758</GalCV>
+    <NGalNm>orofar. zuigtabl. Suikervrij</NGalNm>
+    <FGalNm>past. orophar. Sans Sucre</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00759</GalCV>
+    <NGalNm>tabl. verl. afgifte (deelb. kwantit.) Chrono 300</NGalNm>
+    <FGalNm>compr. lib. prol. (séc. quantit.) Chrono 300</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00760</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr. + solv.) i.m./i.v. [flac. + amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr + solv.) i.m./i.v. [flac. + amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00761</GalCV>
+    <NGalNm>orofar. zuigtabl. Honing- en Citroensmaak</NGalNm>
+    <FGalNm>past. orophar. Goût Miel et Citron</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00762</GalCV>
+    <NGalNm>verband Adhesive Hiel [Rond]</NGalNm>
+    <FGalNm>pansement Adhesive Talon [Rond]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00763</GalCV>
+    <NGalNm>susp. (gran. + solv.)</NGalNm>
+    <FGalNm>susp. (gran. + solv.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00764</GalCV>
+    <NGalNm>siroop susp. (zonder suiker)</NGalNm>
+    <FGalNm>sirop susp. (sans sucre)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00765</GalCV>
+    <NGalNm>orofar. zuigtabl. Suikervrij Sinaasappelsmaak</NGalNm>
+    <FGalNm>past. orophar. Sans Sucre Goût Orange</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00766</GalCV>
+    <NGalNm>susp. Antizuur-Antireflux</NGalNm>
+    <FGalNm>susp. Antiacide-Antireflux</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00767</GalCV>
+    <NGalNm>susp. (zakjes) Antizuur-Antireflux Unidose</NGalNm>
+    <FGalNm>susp. (sachet) Antiacide-Antireflux Unidose</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00768</GalCV>
+    <NGalNm>susp. (zakjes) Advance Munt Unidose</NGalNm>
+    <FGalNm>susp. (sachet) Advance Menthe Unidose</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00769</GalCV>
+    <NGalNm>inj. oploss. s.c. PushPen [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. PushPen [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00770</GalCV>
+    <NGalNm>inj./inf. oploss. i.m./i.v./i.thec./i.arter. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. i.m./i.v./i.théc./i.artér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00771</GalCV>
+    <NGalNm>inj. susp. verl. afgifte i.m./i.derm./i.artic./i.laes./i.burs./p.artic. [flac.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. i.m./i.derm./i.artic./i.lés./i.burs./p.artic. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00772</GalCV>
+    <NGalNm>crème (doseerpomp)</NGalNm>
+    <FGalNm>crème (pompe doseuse)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00773</GalCV>
+    <NGalNm>siroop oploss. (zonder suiker) Eucalyptussmaak</NGalNm>
+    <FGalNm>sirop sol. (sans sucre) Goût eucalyptus</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00774</GalCV>
+    <NGalNm>susp. Zuigelingen en Kinderen</NGalNm>
+    <FGalNm>susp. Nourrissons et Enfants</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00775</GalCV>
+    <NGalNm>siroop oploss. (zonder suiker) Forte</NGalNm>
+    <FGalNm>sirop sol. (sans sucre) Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00776</GalCV>
+    <NGalNm>siroop oploss. Honing &amp; Citroen</NGalNm>
+    <FGalNm>sirop sol. Miel &amp; Citron</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00777</GalCV>
+    <NGalNm>siroop oploss. (zonder suiker) Volwassenen Zonder suiker</NGalNm>
+    <FGalNm>sirop sol. (sans sucre) Adultes Sans sucre</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00778</GalCV>
+    <NGalNm>inj. oploss./inf. oploss. conc. (pdr) i.v. [flac.]</NGalNm>
+    <FGalNm>sol. inj./sol. perf. à diluer (pdr) i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00779</GalCV>
+    <NGalNm>inj. susp. verl. afgifte (pdr. + solv.) i.m. Maintena [2x flac.]</NGalNm>
+    <FGalNm>susp. inj. lib. prol. (pdr + solv.) i.m. Maintena [2x flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00780</GalCV>
+    <NGalNm>gran. (caps. om te openen)</NGalNm>
+    <FGalNm>gran. (gél. à ouvrir)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00781</GalCV>
+    <NGalNm>harde caps. Caps Forte</NGalNm>
+    <FGalNm>gél. Caps Forte</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00782</GalCV>
+    <NGalNm>inj. oploss. (pdr. + solv.) i.m./s.c. [flac. + 2x voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj. (pdr + solv.) i.m./s.c. [flac. + 2x ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00783</GalCV>
+    <NGalNm>inf. oploss. s.c. [flac.] voor Vyafuser</NGalNm>
+    <FGalNm>sol. perf. s.c. [flac.] pour Vyafuser</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00784</GalCV>
+    <NGalNm>cut./or./oromuc. oploss./oploss. (conc.)</NGalNm>
+    <FGalNm>sol./sol. à diluer cut./or./oromuq.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00785</GalCV>
+    <NGalNm>inj. oploss. (conc.) s.c. [flac.]</NGalNm>
+    <FGalNm>sol. inj. à diluer s.c. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00786</GalCV>
+    <NGalNm>zuigtabl. Mint Zonder Suiker</NGalNm>
+    <FGalNm>past. Mint Sans Sucre</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00787</GalCV>
+    <NGalNm>susp. (zonder suiker) Kinderen Suikervrij</NGalNm>
+    <FGalNm>susp. (sans sucre) Enfants Sans Sucre</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00788</GalCV>
+    <NGalNm>susp. (zonder suiker) Rood Kinderen Suikervrij</NGalNm>
+    <FGalNm>susp. (sans sucre) Rouge Enfants Sans Sucre</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00789</GalCV>
+    <NGalNm>inj. disp. (conc.) i.v. [flac.]</NGalNm>
+    <FGalNm>disp. inj. à diluer i.v. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00790</GalCV>
+    <NGalNm>inj. oploss. i.m. Junior [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. i.m. Junior [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00791</GalCV>
+    <NGalNm>inj./inf. oploss. i.v. [voorgev. spuit]</NGalNm>
+    <FGalNm>sol. inj./perf. i.v. [ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00792</GalCV>
+    <NGalNm>inj. emuls. i.v. [amp.]</NGalNm>
+    <FGalNm>émuls. inj. i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00793</GalCV>
+    <NGalNm>nas. druppels oploss. Junior</NGalNm>
+    <FGalNm>gtts sol. nas. Junior</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00794</GalCV>
+    <NGalNm>nas. spray oploss. Junior Sine Conservans</NGalNm>
+    <FGalNm>sol. spray nas. Junior Sine Conservans</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00795</GalCV>
+    <NGalNm>vag. harde caps.</NGalNm>
+    <FGalNm>gél. vag.</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00796</GalCV>
+    <NGalNm>transderm. lok. medic. pleister Once Daily</NGalNm>
+    <FGalNm>emplâtre médic. transderm. local Once Daily</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00797</GalCV>
+    <NGalNm>inhalatiepdr. (harde caps.) [Vertical-Haler]</NGalNm>
+    <FGalNm>poudre inhal. (gél.) [Vertical-Haler]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00798</GalCV>
+    <NGalNm>cut. spray oploss. (alc.) Gekleurd</NGalNm>
+    <FGalNm>sol. spray cut. (alc.) Coloré</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00799</GalCV>
+    <NGalNm>inj./inf. oploss. (conc.) i.m./i.v. [amp.]</NGalNm>
+    <FGalNm>sol. inj./perf. à diluer i.m./i.v. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00800</GalCV>
+    <NGalNm>inj. susp. (pdr. + solv.) i.m./i.derm. [flac. + voorgev. spuit]</NGalNm>
+    <FGalNm>susp. inj. (pdr + solv.) i.m./i.derm. [flac. + ser. préremplie]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00801</GalCV>
+    <NGalNm>inj. oploss. s.c. FlexPro [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. FlexPro [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00802</GalCV>
+    <NGalNm>e.corpor. oploss. modificatie bloedfractie [amp.]</NGalNm>
+    <FGalNm>sol. prép. ex vivo fractions sanguines e.corpor. [amp.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00803</GalCV>
+    <NGalNm>inj. oploss. i.m./i.v./s.c./epidur. [amp., locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj. i.m./i.v./s.c./p.dural [amp., infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00804</GalCV>
+    <NGalNm>inj. oploss. dent. Zonder Vaatvernauwer [patr.]</NGalNm>
+    <FGalNm>sol. inj. dent. Sans Vasoconstricteur [cart.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00805</GalCV>
+    <NGalNm>verband Border Sacral</NGalNm>
+    <FGalNm>pansement Border Sacral</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00806</GalCV>
+    <NGalNm>cut. spray oploss. (doseerpomp) (alc.)</NGalNm>
+    <FGalNm>sol. spray cut. (pompe doseuse) (alc.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00807</GalCV>
+    <NGalNm>verband Sacrum Niet-klevend</NGalNm>
+    <FGalNm>pansement Sacrum Non adhésif</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00808</GalCV>
+    <NGalNm>gran. (zakjes) Instant Junior Vanille Aardbei</NGalNm>
+    <FGalNm>gran. (sachet) Instant Junior Vanille Fraise</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00809</GalCV>
+    <NGalNm>inj./inf./instill. oploss. (pdr.) i.v./i.arter. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf./instill. (pdr) i.v./i.artér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00810</GalCV>
+    <NGalNm>inj. oploss. i.camer. [flac.]</NGalNm>
+    <FGalNm>sol. inj. i.camér. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00811</GalCV>
+    <NGalNm>siroop oploss. (conc.)</NGalNm>
+    <FGalNm>sirop sol. à diluer</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00812</GalCV>
+    <NGalNm>orofar. zuigtabl. Honing &amp; Eucalyptus</NGalNm>
+    <FGalNm>past. orophar. Miel &amp; Eucalyptus</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00813</GalCV>
+    <NGalNm>susp. Baby</NGalNm>
+    <FGalNm>susp. Baby</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00814</GalCV>
+    <NGalNm>zachte caps. Minicaps</NGalNm>
+    <FGalNm>caps. molle Minicaps</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00815</GalCV>
+    <NGalNm>oploss. (gran., zakjes) Junior</NGalNm>
+    <FGalNm>sol. (gran., sachet) Junior</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00816</GalCV>
+    <NGalNm>inj. disp. i.m. [flac.]</NGalNm>
+    <FGalNm>disp. inj. i.m. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00817</GalCV>
+    <NGalNm>inj. disp. (conc.) i.m. [flac.]</NGalNm>
+    <FGalNm>disp. inj. à diluer i.m. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00818</GalCV>
+    <NGalNm>tabl. (deelb.)</NGalNm>
+    <FGalNm>compr. (séc.)</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00819</GalCV>
+    <NGalNm>inj. oploss. s.c. OnePress [voorgev. pen]</NGalNm>
+    <FGalNm>sol. inj. s.c. OnePress [stylo prérempli]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00820</GalCV>
+    <NGalNm>inj. oploss. i.v./s.c./i.derm./s.mucos. [voorgev. spuit, locoregionale infiltr.]</NGalNm>
+    <FGalNm>sol. inj. i.v./s.c./i.derm./s.muq. [ser. préremplie, infiltr. locorégionale]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+  <gal>
+    <GalCV>00821</GalCV>
+    <NGalNm>inj./inf. oploss. (pdr.) i.v./i.thec./i.ventr. [flac.]</NGalNm>
+    <FGalNm>sol. inj./perf. (pdr) i.v./i.théc./i.ventr. [flac.]</FGalNm>
+    <Amb>true</Amb>
+    <Hosp>false</Hosp>
+  </gal>
+</GAL>
