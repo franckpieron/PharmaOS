@@ -165,6 +165,20 @@
 	</select>
 	
 	
+	<select name="medicament" id="medicament">
+	<?php
+	$medics = iterator_to_array($xml->mp);
+	usort($medics, fn($a, $b) => strcmp((string)$a->MPnm, (string)$b->MPnm));
+	
+	foreach ($medics as $mp): ?>
+		<option value="<?= htmlspecialchars((string)$mp->MPcv) ?>">
+			<?= htmlspecialchars((string)$mp->MPnm) ?>
+		</option>
+	<?php endforeach; ?>
+	</select>
+	
+	
+	
 	</div>
 
 
